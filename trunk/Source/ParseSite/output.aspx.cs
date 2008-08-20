@@ -1,0 +1,208 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Net;
+using System.IO;
+
+public partial class output : System.Web.UI.Page
+{
+    // A class to handle tags
+    class htmltag
+    {
+        public string name;    // Tags name
+        public string tag;     // Tags syntax
+        public int offset;     // Tags offset
+
+        // Constructor
+        public htmltag(string name, string tag, int offset)
+        {
+            this.name = name;
+            this.tag = tag;
+            this.offset = offset;
+        }
+    } // -- end of htmltag class
+
+    // Global Variables
+    string htmlsource = ""; // Varible to store htmlsource
+    string url = ""; // Variable to store url
+    string result = ""; // Variable to store result
+    htmltag imgtag = new htmltag("image", "<img", 5); // Creating an imgtag
+
+    /*
+     * Event's Trigger: automatically, after redirection from source page
+     * Action: shows the output from the url given (images and texts) 
+     */
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        /* Alternative using session
+         * url = (string)Session["url"];
+         * Write(Session["url"]);
+         * Get url from previouspage with preserveform method and display it on OutputTB
+         */
+        url = Request.Form["InputTB"];
+        Response.Write(url+"<br>");
+
+        // Check if in the process of opening up the url and storing html source, there is an error
+        if (getHtmlSource() == -1)// || saveHtmlSource() == -1)
+        {
+            return;
+        }
+
+        // Parse the htmlsource
+        parseSource(imgtag);
+
+        // Printout the result
+        Response.Write("<br><br>"+result);
+    }
+
+    /*
+     * Method: to parse the source atm only "<img" , "/>"
+     * Parameter: (2) tag and offset. Offset is the length of this tag
+     * Return: void
+     */
+    private void parseSource(htmltag tag)
+    {
+        int location = 0; // Start index for parsing tags
+        int start_tag = 0; // Beginning of a parsed string
+        int end_tag = 0; // End of a a parsed string
+        int counter = 0;  // Count tag
+
+        // Parsing Loop
+        do
+        {   
+            // Search for "<img"
+            if (htmlsource.IndexOf(tag.tag, location) != -1)
+            {
+                // Parsing tag <img></img> start_tag -> begin of tag , end_tag -> end of tag
+                start_tag = htmlsource.IndexOf(imgtag.tag, location, StringComparison.OrdinalIgnoreCase) + tag.offset;
+                end_tag = htmlsource.IndexOf(">", start_tag, StringComparison.OrdinalIgnoreCase);
+
+                // Saving the parsed tags, change location value to end_tag, increment counter
+                result += htmlsource.Substring(start_tag, end_tag - start_tag) + " Location : ||" + start_tag + "||<br>";
+                location = end_tag;
+                counter++;
+            }
+            else
+            {
+                location++; // Location increment
+            }
+        } while (location <= htmlsource.Length) ; // Loop till end of source 
+
+         // Display found tags
+         Response.Write(" found " + counter + " " + tag.name);
+    }
+
+    /*
+     * Method: to request and open up a given url, store html source into string htmlText
+     * Return: 0 if succesfull, -1 if exception occurs
+     */
+    private int getHtmlSource()
+    {
+        /* URL validation - not implemented
+         * If http:// not found then add it
+         */
+        try
+        {
+            // Validation check
+            if (!url.Contains("http://"))
+            {
+                string temp1;
+
+                temp1 = url;
+                url = "http://";
+                url += temp1;
+            }
+        }
+        catch (Exception)
+        {
+            // Display error message
+            Response.Write("Empty url");
+            return -1;
+        }
+
+        // Open up the url
+        // If url is a bad link, then shows an error message
+        try
+        {
+            // Creating Request
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+
+            // Get Response: actually goes and tries to access the website
+            WebResponse response = request.GetResponse();
+
+            // Convert response into string
+            Stream stream = response.GetResponseStream();
+            StreamReader reader = new StreamReader(stream);
+            htmlsource = reader.ReadToEnd();
+
+            // Close StreamReader
+            reader.Close();
+            return 0;
+        }
+        catch (Exception)
+        {
+            // Display error message
+            Response.Write("URL(" + url + ") can't be opened");
+            return -1;
+        }
+    }
+
+    /*
+     * Method: saving html source code (htmlText), after getHtmlSource(), to a filename.txt
+     * Return: 0 if succesfull, -1 if exception occurs
+     */
+    private int saveHtmlSource()
+    {
+        //Checking html source
+        if (htmlsource != null && htmlsource.Length != 0)
+        {
+            //URL length validation - not implemented yet
+            string filename = null;
+
+            /*//Make filename from url, convention: (url root's name without http://).txt
+            int size = url.Length - 7; // minus 7 = http://
+            char[] nameBuffer = new char[size];
+            url.CopyTo(7, nameBuffer, 0, size);
+            string filename = new string(nameBuffer);
+            filename = filename + ".txt";*/
+
+            //7 = to exclude "http://"
+            //Make filename from url, convention: (url root's name without http://).txt
+            if (url.StartsWith("http://"))
+            {
+                filename = url.Substring(7, url.Length - 7);
+                filename += ".txt";
+            }
+            else
+            {
+                filename = url + ".txt";
+            }
+
+            //write to the *.txt
+            try
+            {
+                StreamWriter writer = new StreamWriter(Server.MapPath(filename));
+                writer.Write(htmlsource);
+                writer.Close();
+            }
+            catch (Exception)
+            {
+                Page.Response.Write("Writing to file error");
+                return -1;
+            }
+            /*
+            //Debugging Purpose
+            Page.Response.Write(filename+", url.Length =  "+url.Length);
+             */
+            return 0;
+        }
+        return -1;
+    }
+}
