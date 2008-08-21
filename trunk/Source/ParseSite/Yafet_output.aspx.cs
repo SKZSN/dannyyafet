@@ -10,14 +10,16 @@ using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using System.Net;
 using System.IO;
-
+using System.Data.SqlClient;
 
 public partial class output : System.Web.UI.Page
 {
-    // To store an url's name from URLTextBox on the source page (default.aspx)
+    //To store an url's name from URLTextBox on the source page (default.aspx)
     private string url;
     //To store an html source code in text type from a given url
     private string htmlText;
+    //To store the connection to the database
+    private SqlConnection conn;
 
     /*
      * Event's Trigger: automatically, after redirection from source page
@@ -35,7 +37,7 @@ public partial class output : System.Web.UI.Page
             }
             else{
                 //If can't get the URLTextBox from source, shows an error message and stop/return
-                Page.Response.Write("urlTextBox == null");
+                Page.Response.Write("urlTextBox == null<br>");
                 return;
             }
         }
@@ -50,7 +52,7 @@ public partial class output : System.Web.UI.Page
             return;
         }
 
-        //parseTag("<img");
+        //parseImageTag();
     }
 
     /*
@@ -67,25 +69,34 @@ public partial class output : System.Web.UI.Page
             return;
         }
 
-        parseTag("<img");
+        parseImageTag();
     }
 
-    
-    private void parseTag(string tag){
+    private void parseImageTag(){
         int loc = 0;
-        /*
-        //Development process
-        int locImg = 0;
-        int locText = 0;
-        */
+        string tag = "<img";
+        string whole = null;
 
         loc = htmlText.IndexOf(tag, StringComparison.OrdinalIgnoreCase);
         while(loc != -1){
-            Page.Response.Write("location = "+loc+"\r\n");
-
+            Page.Response.Write("location = "+loc+"<br>");
+            whole = htmlText.Substring(loc,htmlText.IndexOf('>',loc)-loc+1);
+            //Page.Response.Write("tag = "+whole+"<br><br>");
+            //SqlCommand comm = new SqlCommand("Select * from Database",conn);
             loc = htmlText.IndexOf(tag, loc + 1, StringComparison.OrdinalIgnoreCase);
         }
-        Page.Response.Write("location = " + loc+"\r\n");
+        Page.Response.Write("location = " + loc+"<br>");
+
+        //TEST SQL QUERY
+        //Define database connection
+        conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString);   
+        SqlCommand comm = new SqlCommand("Select * from ImageTable", conn);
+        conn.Open();
+        SqlDataReader reader = comm.ExecuteReader();
+        GridView1.DataSource = reader;
+        GridView1.DataBind();
+        reader.Close();
+        conn.Close();
         
         /*
         //Development process
@@ -119,13 +130,6 @@ public partial class output : System.Web.UI.Page
             //URL length validation - not implemented yet
             string filename = null;
 
-            /*//Make filename from url, convention: (url root's name without http://).txt
-            int size = url.Length - 7; // minus 7 = http://
-            char[] nameBuffer = new char[size];
-            url.CopyTo(7, nameBuffer, 0, size);
-            string filename = new string(nameBuffer);
-            filename = filename + ".txt";*/
-
             //7 = to exclude "http://"
             //Make filename from url, convention: (url root's name without http://).txt
             if(url.StartsWith("http://")){
@@ -142,7 +146,7 @@ public partial class output : System.Web.UI.Page
                 writer.Close();
             }
             catch(Exception){
-                Page.Response.Write("Writing to file error");
+                Page.Response.Write("Writing to file error<br>");
                 return -1;
             }
             /*
@@ -159,7 +163,19 @@ public partial class output : System.Web.UI.Page
      * Return: 0 if succesfull, -1 if exception occurs
      */
     private int getHtmlSource(){
-        //URL validation - not implemented
+        //Check for "http://"
+        try{
+            if(!url.Contains("http://")){
+                //Page.Response.Write("no http://<br>");
+                url = url.Insert(0,"http://");
+                //Page.Response.Write("url = "+url+"<br>");
+            }
+        }
+        catch{
+            //If empty string or null
+            Page.Response.Write("Empty URL<br>");
+            return -1;
+        }
 
         //Open up the url
         //If url is a bad link, then shows an error message
@@ -177,8 +193,12 @@ public partial class output : System.Web.UI.Page
             return 0;
         }
         catch (Exception){
-            Page.Response.Write("URL(" + url + ") can't be opened");
+            Page.Response.Write("URL(" + url + ") can't be opened<br>");
             return -1;
         }
+    }
+
+    protected void SqlDataSource1_Selecting(object sender, SqlDataSourceSelectingEventArgs e){
+
     }
 }
