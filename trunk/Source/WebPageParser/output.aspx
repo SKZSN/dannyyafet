@@ -26,21 +26,20 @@
             <HeaderStyle BackColor="#000084" Font-Bold="True" ForeColor="White" />
             <AlternatingRowStyle BackColor="Gainsboro" />
             <Columns>
-                <asp:BoundField DataField="webPage" HeaderText="webPage" SortExpression="webPage" />
-                <asp:BoundField DataField="element" HeaderText="element" SortExpression="element" />
-                <asp:BoundField DataField="sub" HeaderText="sub" SortExpression="sub" />
-                <asp:BoundField DataField="type" HeaderText="type" SortExpression="type" />
-                <asp:BoundField DataField="tag" HeaderText="tag" SortExpression="tag" />
-                <asp:BoundField DataField="loc" HeaderText="loc" ReadOnly="True" SortExpression="loc" />
-                <asp:ImageField DataImageUrlField="pictureUrl" HeaderText="Display">
-                </asp:ImageField>
+                <asp:BoundField DataField="webPage" HeaderText="Web Page" SortExpression="webPage" />
+                <asp:BoundField DataField="element" HeaderText="Element" SortExpression="element" />
+                <asp:BoundField DataField="sub" HeaderText="Sub" SortExpression="sub" />
+                <asp:BoundField DataField="type" HeaderText="Type" SortExpression="type" />
+                <asp:BoundField DataField="tag" HeaderText="Tag" SortExpression="tag" />
+                <asp:BoundField DataField="loc" HeaderText="Loc" ReadOnly="True" SortExpression="loc" />
+                <asp:BoundField DataField="display" HeaderText="Display" HtmlEncode="False" SortExpression="display" />
             </Columns>
         </asp:GridView>
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConflictDetection="CompareAllValues"
-            ConnectionString="<%$ ConnectionStrings:ConnectionString %>" DeleteCommand="DELETE FROM [imageTable] WHERE [loc] = @original_loc AND [webPage] = @original_webPage AND [element] = @original_element AND [sub] = @original_sub AND [type] = @original_type AND [tag] = @original_tag AND [pictureUrl] = @original_pictureUrl"
-            InsertCommand="INSERT INTO [imageTable] ([webPage], [element], [sub], [type], [tag], [loc], [pictureUrl]) VALUES (@webPage, @element, @sub, @type, @tag, @loc, @pictureUrl)"
-            OldValuesParameterFormatString="original_{0}" SelectCommand="SELECT [webPage], [element], [sub], [type], [tag], [loc], [pictureUrl] FROM [imageTable]"
-            UpdateCommand="UPDATE [imageTable] SET [webPage] = @webPage, [element] = @element, [sub] = @sub, [type] = @type, [tag] = @tag, [pictureUrl] = @pictureUrl WHERE [loc] = @original_loc AND [webPage] = @original_webPage AND [element] = @original_element AND [sub] = @original_sub AND [type] = @original_type AND [tag] = @original_tag AND [pictureUrl] = @original_pictureUrl">
+            ConnectionString="<%$ ConnectionStrings:ConnectionString %>" DeleteCommand="DELETE FROM [imageTable] WHERE [loc] = @original_loc AND [webPage] = @original_webPage AND [element] = @original_element AND [sub] = @original_sub AND [type] = @original_type AND [tag] = @original_tag AND [display] = @original_display"
+            InsertCommand="INSERT INTO [imageTable] ([webPage], [element], [sub], [type], [tag], [loc], [display]) VALUES (@webPage, @element, @sub, @type, @tag, @loc, @display)"
+            OldValuesParameterFormatString="original_{0}" SelectCommand="SELECT [webPage], [element], [sub], [type], [tag], [loc], [display] FROM [imageTable]"
+            UpdateCommand="UPDATE [imageTable] SET [webPage] = @webPage, [element] = @element, [sub] = @sub, [type] = @type, [tag] = @tag, [display] = @display WHERE [loc] = @original_loc AND [webPage] = @original_webPage AND [element] = @original_element AND [sub] = @original_sub AND [type] = @original_type AND [tag] = @original_tag AND [display] = @original_display">
             <DeleteParameters>
                 <asp:Parameter Name="original_loc" Type="Int32" />
                 <asp:Parameter Name="original_webPage" Type="String" />
@@ -48,7 +47,7 @@
                 <asp:Parameter Name="original_sub" Type="String" />
                 <asp:Parameter Name="original_type" Type="String" />
                 <asp:Parameter Name="original_tag" Type="String" />
-                <asp:Parameter Name="original_pictureUrl" Type="String" />
+                <asp:Parameter Name="original_display" Type="String" />
             </DeleteParameters>
             <UpdateParameters>
                 <asp:Parameter Name="webPage" Type="String" />
@@ -56,14 +55,14 @@
                 <asp:Parameter Name="sub" Type="String" />
                 <asp:Parameter Name="type" Type="String" />
                 <asp:Parameter Name="tag" Type="String" />
-                <asp:Parameter Name="pictureUrl" Type="String" />
+                <asp:Parameter Name="display" Type="String" />
                 <asp:Parameter Name="original_loc" Type="Int32" />
                 <asp:Parameter Name="original_webPage" Type="String" />
                 <asp:Parameter Name="original_element" Type="Int32" />
                 <asp:Parameter Name="original_sub" Type="String" />
                 <asp:Parameter Name="original_type" Type="String" />
                 <asp:Parameter Name="original_tag" Type="String" />
-                <asp:Parameter Name="original_pictureUrl" Type="String" />
+                <asp:Parameter Name="original_display" Type="String" />
             </UpdateParameters>
             <InsertParameters>
                 <asp:Parameter Name="webPage" Type="String" />
@@ -72,7 +71,7 @@
                 <asp:Parameter Name="type" Type="String" />
                 <asp:Parameter Name="tag" Type="String" />
                 <asp:Parameter Name="loc" Type="Int32" />
-                <asp:Parameter Name="pictureUrl" Type="String" />
+                <asp:Parameter Name="display" Type="String" />
             </InsertParameters>
         </asp:SqlDataSource>
     </div>
