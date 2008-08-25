@@ -55,11 +55,9 @@ public partial class output : System.Web.UI.Page
         }
 
         //Check if in the process of opening up the url and storing html source, there is an error
-        if (getHtmlSource() == -1 || saveHtmlSource() == -1){
+        if (getHtmlSource() == -1 || saveHtmlSource() == -1 || parseImageTag() == -1 || parseTextTag() == -1){
             return;
         }
-
-        parseImageTag();
     }
 
     /*
@@ -76,19 +74,125 @@ public partial class output : System.Web.UI.Page
         Label1.Text = url;
 
         //Check if in the process of opening up the url and storing html source, there is an error
-        if (getHtmlSource() == -1 || saveHtmlSource() == -1){
+        if (getHtmlSource() == -1 || saveHtmlSource() == -1 || parseImageTag() == -1 || parseTextTag() == -1){
             return;
         }
-
-        parseImageTag();
     }
 
+    private int parseTextTag(){
+        int loc = 0, len = 0, end = 0;
+        string openTag = "<p", closeTag = "</p>";
+        string whole = null, check = null;
+
+        /* ----- SQL RELATED VARIABLES & PREPARATION TO ACCESS TABLE ----- */
+        //To store the connection to the database
+        SqlConnection conn;
+        //SQL command
+        SqlCommand comm;//, commOut;
+        //SQL Reader for Data Binding
+        //SqlDataReader reader;
+
+        //Define database connection
+        conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString);
+        //Create Command
+        comm = new SqlCommand(
+            "INSERT INTO imageTable (webPage, element, sub, type, tag, loc, display)" +
+            "VALUES (@webPage, @element, @sub, @type, @tag, @loc, @display)", conn);
+        //Add command parameters
+        comm.Parameters.Add("@webPage", SqlDbType.VarChar);
+        comm.Parameters.Add("@element", SqlDbType.Int);
+        comm.Parameters.Add("@sub", SqlDbType.Char);
+        comm.Parameters.Add("@type", SqlDbType.VarChar);
+        comm.Parameters.Add("@tag", SqlDbType.VarChar);
+        comm.Parameters.Add("@loc", SqlDbType.Int);
+        comm.Parameters.Add("@display", SqlDbType.VarChar);
+        //SQL command to output the table
+        //commOut = new SqlCommand("SELECT webPage, element, sub, type, tag, loc FROM imageTable", conn);
+
+        //Open the connection 
+        try{
+            conn.Open();
+        }
+        catch{
+            Page.Response.Write("SQL OPEN CONNECTION FAILED<br>");
+            conn.Close();
+            return -1;
+        }
+        /* ----- SQL PREPARATION END ----- */
+
+        //Locate <p...>...</p> tag
+        loc = htmlText.IndexOf(openTag, StringComparison.OrdinalIgnoreCase);
+        while( loc != -1 && !((check=htmlText.Substring(loc+2,1)).Equals(" ")) && !(check.Equals(">")) ){
+                loc = htmlText.IndexOf(openTag, loc+2, StringComparison.OrdinalIgnoreCase);
+        }
+        while (loc != -1){ //If FOUND
+            //Page.Response.Write("location = "+loc+"<br>");
+            //Increment number of element
+            element++;
+            //Get closing tag location
+            end = htmlText.IndexOf(closeTag, loc, StringComparison.OrdinalIgnoreCase);
+            len = (end+3) - loc + 1;
+            //copy the whole <img...> tag to string whole
+            whole = htmlText.Substring(loc, len);
+            //Page.Response.Write("tag = "+whole+"<br><br>");
+
+            /* ----- SQL QUERY: INSERT TO TABLE: imageTable ----- */
+            //Set Parameters Value
+            comm.Parameters["@webPage"].Value = rootUrl;
+            comm.Parameters["@element"].Value = element;
+            comm.Parameters["@sub"].Value = 'a';
+            comm.Parameters["@type"].Value = "Text";
+            comm.Parameters["@tag"].Value = whole;
+            comm.Parameters["@loc"].Value = loc;
+            comm.Parameters["@display"].Value = whole;
+            //Enclose database code in Try-Catch-Finally
+            try{
+                //Execute the command
+                comm.ExecuteNonQuery();
+            }
+            catch{
+                //Display error message
+                Page.Response.Write("SQL INSERTION ERROR<br>");
+                conn.Close();
+                return -1;
+            }
+            /* ----- SQL QUERY END ----- */
+
+
+            //Find next <p ...>...</p> tag from "end" location
+            loc = htmlText.IndexOf(openTag, end+3, StringComparison.OrdinalIgnoreCase);
+            while ( loc != -1 && !((check = htmlText.Substring(loc + 2, 1)).Equals(" ")) && !(check.Equals(">"))){
+                loc = htmlText.IndexOf(openTag, loc + 2, StringComparison.OrdinalIgnoreCase);
+            }
+        }
+        //Page.Response.Write("location = " + loc+"<br>");
+        //Close the Connection
+        try{
+            conn.Close();
+        }
+        catch{
+            Page.Response.Write("SQL CLOSE CONNECTION ERROR<br>");
+            return -1;
+        }
+        //Refresh the gridview
+        Page.DataBind();
+
+        return 0;
+    }
+
+    /*
+     * Method to parse the <img...> tag from string htmlText
+     * , insert data value to SQL Database(imageTable), and Re-bind data with GridView1 to show the table data
+     * Return: 0 if successfull, -1 otherwise
+     */
     private int parseImageTag(){
-        int loc = 0; //Location of the <img...> tag
-        string tag = "<img"; //Flag for finding <img...> using string.IndexOf(..)
-        string whole = null, src = null; //String to store the whole <img...> tag
+        //Location of the <img...> tag
+        int loc = 0; 
         //len = length of the <img...> tag, end = location of ending '>' bracket to close <img...> tag 
         int len = 0, end = 0;
+        string tag = "<img"; //Flag for finding <img...> using string.IndexOf(..)
+        string whole = null, src = null; //String to store the whole <img...> tag
+        
         /* ----- SQL RELATED VARIABLES & PREPARATION TO ACCESS TABLE ----- */
         //To store the connection to the database
         SqlConnection conn;
@@ -101,8 +205,8 @@ public partial class output : System.Web.UI.Page
         conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString); 
         //Create Command
         comm = new SqlCommand(
-            "INSERT INTO imageTable (webPage, element, sub, type, tag, loc, pictureUrl)" +
-            "VALUES (@webPage, @element, @sub, @type, @tag, @loc, @pictureUrl)", conn);
+            "INSERT INTO imageTable (webPage, element, sub, type, tag, loc, display)" +
+            "VALUES (@webPage, @element, @sub, @type, @tag, @loc, @display)", conn);
         //Add command parameters
         comm.Parameters.Add("@webPage", SqlDbType.VarChar);
         comm.Parameters.Add("@element", SqlDbType.Int);
@@ -110,7 +214,7 @@ public partial class output : System.Web.UI.Page
         comm.Parameters.Add("@type", SqlDbType.VarChar);
         comm.Parameters.Add("@tag", SqlDbType.VarChar);
         comm.Parameters.Add("@loc", SqlDbType.Int);
-        comm.Parameters.Add("@pictureUrl", SqlDbType.VarChar);
+        comm.Parameters.Add("@display", SqlDbType.VarChar);
         //SQL command to output the table
         //commOut = new SqlCommand("SELECT webPage, element, sub, type, tag, loc FROM imageTable", conn);
  
@@ -138,7 +242,8 @@ public partial class output : System.Web.UI.Page
             //copy the whole <img...> tag to string whole
             whole = htmlText.Substring(loc, len);
             //Page.Response.Write("tag = "+whole+"<br><br>");
-            src = getSrc(whole);
+            src = checkImgTag(whole);
+            //src = getSrc(whole);
             //Page.Response.Write("src = "+src+"<br><br>");
 
             /* ----- SQL QUERY: INSERT TO TABLE: imageTable ----- */
@@ -149,7 +254,7 @@ public partial class output : System.Web.UI.Page
             comm.Parameters["@type"].Value = "Image";
             comm.Parameters["@tag"].Value = whole;
             comm.Parameters["@loc"].Value = loc;
-            comm.Parameters["@pictureUrl"].Value = src;
+            comm.Parameters["@display"].Value = src;
             //Enclose database code in Try-Catch-Finally
             try{
                 //Execute the command
@@ -347,6 +452,10 @@ public partial class output : System.Web.UI.Page
         return 0;
     }
 
+    /*
+     * Method to get the src attribute from <img ...> tag, and inser the path with root url if it isn't there
+     * Return: string src = new url with root inserted to show the image 
+     */
     private string getSrc(string img){
         int index = 0;
         string src = null;
@@ -363,5 +472,34 @@ public partial class output : System.Web.UI.Page
         }
 
         return src; 
+    }
+
+    /*
+     * Method to update the original <img...> tag by checking the src attribute if the url has root, if it doesn't, insert root
+     * Return: string newTag = the whole <img...> tag with src attribute updated
+     */
+    private string checkImgTag(string img){
+        int index = 0;
+        string newTag = null;
+
+        if ((index = img.IndexOf("src=\"", StringComparison.OrdinalIgnoreCase)) != -1){
+            if (img.IndexOf("http", index + 5, StringComparison.OrdinalIgnoreCase) == -1){
+                newTag = img.Insert(index + 5, rootUrl);
+                return newTag;
+            }else{
+                return img;
+            }
+        }
+        else if ((index = img.IndexOf("src=", StringComparison.OrdinalIgnoreCase)) != -1){
+            if (img.IndexOf("http", index + 4, StringComparison.OrdinalIgnoreCase) == -1){
+                newTag = img.Insert(index + 4, rootUrl);
+                return newTag;
+            }
+            else{
+                return img;
+            }
+        }
+
+        return null;
     }
 }

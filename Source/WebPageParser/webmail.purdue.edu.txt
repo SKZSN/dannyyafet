@@ -6,8 +6,8 @@
 </head>
 
 <frameset rows="*,55" border="0">
-    <frame name="horde_main" src="/imp/?Horde=38bc72d035f54b91d3f1a14da295b162" scrolling="auto" noresize="noresize" frameborder="0" />
-    <frame name="horde_menu" src="/menu.php?Horde=38bc72d035f54b91d3f1a14da295b162" scrolling="no" marginheight="0" marginwidth="0" noresize="noresize" frameborder="0" />
+    <frame name="horde_main" src="/imp/?Horde=a9658ef1ae313c00c2bd65ef989b6c5b" scrolling="auto" noresize="noresize" frameborder="0" />
+    <frame name="horde_menu" src="/menu.php?Horde=a9658ef1ae313c00c2bd65ef989b6c5b" scrolling="no" marginheight="0" marginwidth="0" noresize="noresize" frameborder="0" />
 </frameset>
 
 </html>
