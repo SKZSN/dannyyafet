@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebPageParser\", "..\..\WebSites\WebPageParser\", "{D7B9D783-A902-4C97-9B9A-EE95965EB141}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebPageParser\", "..\..\Source\WebPageParser\", "{D7B9D783-A902-4C97-9B9A-EE95965EB141}"
 	ProjectSection(WebsiteProperties) = preProject
 		Debug.AspNetCompiler.VirtualPath = "/WebPageParser"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebPageParser\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Source\WebPageParser\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebPageParser\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/WebPageParser"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebPageParser\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Source\WebPageParser\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebPageParser\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
