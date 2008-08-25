@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebPageParser\", "..\..\WebSites\WebPageParser\", "{D7B9D783-A902-4C97-9B9A-EE95965EB141}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/WebPageParser"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebPageParser\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebPageParser\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebPageParser"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebPageParser\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebPageParser\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52409"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B9D783-A902-4C97-9B9A-EE95965EB141}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D7B9D783-A902-4C97-9B9A-EE95965EB141}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

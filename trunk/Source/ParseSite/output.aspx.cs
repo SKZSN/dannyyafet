@@ -10,6 +10,7 @@ using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using System.Net;
 using System.IO;
+using System.Collections;
 
 public partial class output : System.Web.UI.Page
 {
@@ -21,11 +22,10 @@ public partial class output : System.Web.UI.Page
         public int offset;     // Tags offset
 
         // Constructor
-        public htmltag(string name, string tag, int offset)
-        {
+        public htmltag(string name, string tag)
+        {   
             this.name = name;
             this.tag = tag;
-            this.offset = offset;
         }
     } // -- end of htmltag class
 
@@ -33,8 +33,8 @@ public partial class output : System.Web.UI.Page
     string htmlsource = ""; // Varible to store htmlsource
     string url = ""; // Variable to store url
     string result = ""; // Variable to store result
-    htmltag imgtag = new htmltag("image", "<img", 5); // Creating an imgtag
-
+    htmltag imgtag = new htmltag("image", "<img src="); // Creating an imgtag
+    
     /*
      * Event's Trigger: automatically, after redirection from source page
      * Action: shows the output from the url given (images and texts) 
@@ -54,12 +54,8 @@ public partial class output : System.Web.UI.Page
         {
             return;
         }
-
         // Parse the htmlsource
-        parseSource(imgtag);
-
-        // Printout the result
-        Response.Write("<br><br>"+result);
+        parseSource(imgtag);   
     }
 
     /*
@@ -81,13 +77,19 @@ public partial class output : System.Web.UI.Page
             if (htmlsource.IndexOf(tag.tag, location) != -1)
             {
                 // Parsing tag <img></img> start_tag -> begin of tag , end_tag -> end of tag
-                start_tag = htmlsource.IndexOf(imgtag.tag, location, StringComparison.OrdinalIgnoreCase) + tag.offset;
-                end_tag = htmlsource.IndexOf(">", start_tag, StringComparison.OrdinalIgnoreCase);
+                start_tag = htmlsource.IndexOf(imgtag.tag, location, StringComparison.OrdinalIgnoreCase);
+                end_tag = htmlsource.IndexOf(">", start_tag, StringComparison.OrdinalIgnoreCase) + 1;
 
                 // Saving the parsed tags, change location value to end_tag, increment counter
-                result += htmlsource.Substring(start_tag, end_tag - start_tag) + " Location : ||" + start_tag + "||<br>";
+                // start_tag + offset (in case img tag) means we start from <img src=x <- here
+                result = htmlsource.Substring(start_tag, end_tag - start_tag); 
+
+                // Counter increment and Current Location allocation
                 location = end_tag;
                 counter++;
+
+                // Printout the result
+                Response.Write("<br><br>" + result + " Location : ||" + start_tag + "||<br>");
             }
             else
             {
@@ -95,8 +97,8 @@ public partial class output : System.Web.UI.Page
             }
         } while (location <= htmlsource.Length) ; // Loop till end of source 
 
-         // Display found tags
-         Response.Write(" found " + counter + " " + tag.name);
+        // Display found tags
+        Response.Write(" found " + counter + " " + tag.name);
     }
 
     /*
@@ -153,56 +155,29 @@ public partial class output : System.Web.UI.Page
             return -1;
         }
     }
-
-    /*
-     * Method: saving html source code (htmlText), after getHtmlSource(), to a filename.txt
-     * Return: 0 if succesfull, -1 if exception occurs
-     */
-    private int saveHtmlSource()
-    {
-        //Checking html source
-        if (htmlsource != null && htmlsource.Length != 0)
-        {
-            //URL length validation - not implemented yet
-            string filename = null;
-
-            /*//Make filename from url, convention: (url root's name without http://).txt
-            int size = url.Length - 7; // minus 7 = http://
-            char[] nameBuffer = new char[size];
-            url.CopyTo(7, nameBuffer, 0, size);
-            string filename = new string(nameBuffer);
-            filename = filename + ".txt";*/
-
-            //7 = to exclude "http://"
-            //Make filename from url, convention: (url root's name without http://).txt
-            if (url.StartsWith("http://"))
-            {
-                filename = url.Substring(7, url.Length - 7);
-                filename += ".txt";
-            }
-            else
-            {
-                filename = url + ".txt";
-            }
-
-            //write to the *.txt
-            try
-            {
-                StreamWriter writer = new StreamWriter(Server.MapPath(filename));
-                writer.Write(htmlsource);
-                writer.Close();
-            }
-            catch (Exception)
-            {
-                Page.Response.Write("Writing to file error");
-                return -1;
-            }
-            /*
-            //Debugging Purpose
-            Page.Response.Write(filename+", url.Length =  "+url.Length);
-             */
-            return 0;
-        }
-        return -1;
-    }
 }
+
+//ArrayList imgarraylist = new ArrayList();
+//imgarraylist.Add(htmlsource.Substring(start_tag+10, end_tag - start_tag));
+/* Printout the result
+for (int i = 0; i < imgarraylist.Count; i++)
+{
+    string temp = "<img src=" + url + "/" + (string)imgarraylist[i];
+    imgarraylist[i] = temp;
+    Response.Write("<br><br>" + imgarraylist[i]);
+}*/
+/*
+                // If the image files on the same server
+                if (result.Contains("http://"))
+                {
+                    // add img tag back, url 
+                    string temp = tag.tag + url + "/" + result;
+                    result = temp;
+
+                }
+                else // if the image files not on the same server
+                {
+                    // just add the image tag back
+                    string temp = tag.tag + result;
+                    result = temp;
+                }*/

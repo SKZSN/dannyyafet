@@ -1,0 +1,732 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="MediaWiki 1.14alpha" />
+		<meta name="keywords" content="Neon Genesis Evangelion,,ADV Films,Abspann,Adam Kadmon,Adam und Eva,Akira (Manga),Altgriechisch,Amok,Animania,Animax" />
+		<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="http://de.wikipedia.org/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="http://de.wikipedia.org/apple-touch-icon.png" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)" />
+		<link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html" />
+		<link rel="alternate" type="application/rss+xml" title="RSS-Feed für Wikipedia" href="http://de.wikipedia.org/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Atom-Feed für Wikipedia" href="http://de.wikipedia.org/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+		<title>Neon Genesis Evangelion – Wikipedia</title>
+		<link rel="stylesheet" href="/skins-1.5/common/shared.css?167" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/skins-1.5/common/commonPrint.css?167" type="text/css" media="print" />
+		<link rel="stylesheet" href="/skins-1.5/monobook/main.css?167" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/skins-1.5/chick/main.css?167" type="text/css" media="handheld" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/skins-1.5/monobook/IE50Fixes.css?167" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/skins-1.5/monobook/IE55Fixes.css?167" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/skins-1.5/monobook/IE60Fixes.css?167" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/skins-1.5/monobook/IE70Fixes.css?167" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/extensions/FlaggedRevs/flaggedrevs.css?39" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins-1.5/common/IEFixes.js?167"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/skins-1.5";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "http://de.wikipedia.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Neon_Genesis_Evangelion";
+		var wgTitle = "Neon Genesis Evangelion";
+		var wgAction = "view";
+		var wgArticleId = "28717";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "de";
+		var wgContentLanguage = "de";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = "49863504";
+		var wgVersion = "1.14alpha";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = false;
+		var wgMWSuggestTemplate = "http://de.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}";
+		var wgDBname = "dewiki";
+		var wgSearchNamespaces = [0];
+		var wgMWSuggestMessages = ["mit Vorschläge", "keine Vorschläge"];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+                
+		<script type="text/javascript" src="/skins-1.5/common/wikibits.js?167"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins-1.5/common/ajax.js?167"></script>
+		<script type="text/javascript" src="/skins-1.5/common/mwsuggest.js?167"></script>
+<script type="text/javascript">
+var wgFlaggedRevsParams = {"tags": {"accuracy": 2}};
+var wgFlaggedRevsParams2 = {"tags": {"reliability": 3, "completeness": 2, "npov": 2, "presentation": 1}};
+var wgStableRevisionId = 49863504;
+var wgAjaxFeedback = {"sendingMsg": "Übertragung …", "sentMsg": "Danke schön."}
+var wgAjaxReview = {"sendingMsg": "Übertragung …", "sentMsg": "Markierung gesetzt", "actioncomplete": "Aktion beendet"}
+</script>
+<script type="text/javascript" src="/w/extensions/FlaggedRevs/flaggedrevs.js?39"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Neon_Genesis_Evangelion skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+		<div id="siteNotice"><script type="text/javascript" language="JavaScript">
+<!--
+document.writeln("\x3cdiv style=\"position:absolute; z-index:100; right:5px; top:-20px;\" class=\"metadata\" id=\"donate\"\x3e\n\x3cdiv style=\"text-align:right; font-size:80%\"\x3e\x3ca href=\"http://wikimediafoundation.org/wiki/Spenden\" class=\"extiw\" title=\"wikimedia:Spenden\"\x3eIhre \x3cb\x3eSpenden\x3c/b\x3e\x3c/a\x3e helfen, Wikipedia zu betreiben. \n\x3c/div\x3e\x3c/div\x3e\n");
+-->
+</script></div>		<h1 class="firstHeading">Neon Genesis Evangelion</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">aus Wikipedia, der freien Enzyklopädie</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Wechseln zu: <a href="#column-one">Navigation</a>, <a href="#searchInput">Suche</a></div>			<!-- start content -->
+			<table class="wikitable float-right" style="width:280px; font-size:95%;">
+<tr>
+<th colspan="2" style="background: #ADD8E6; text-align: center;">Seriendaten</th>
+</tr>
+<tr>
+<td colspan="2" style="padding: 0;"><a href="/wiki/Bild:Neon_Genesis_Evangelion_Logo.svg" class="image" title="Neon Genesis Evangelion Logo.svg"><img alt="" src="http://upload.wikimedia.org/wikipedia/de/thumb/d/da/Neon_Genesis_Evangelion_Logo.svg/280px-Neon_Genesis_Evangelion_Logo.svg.png" width="280" height="124" border="0" /></a></td>
+</tr>
+<tr style="vertical-align:top; background: #F0F8FF;">
+<td>Deutscher Titel:</td>
+<td><b>Neon Genesis Evangelion</b></td>
+</tr>
+<tr style="vertical-align:top; background: #F0F8FF;">
+<td style="width:42%">Originaltitel:</td>
+<td style="width:58%"><b>Shin Seiki Evangelion (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">新世紀エヴァンゲリオン</span>)</b></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Produktionsland:</td>
+<td><a href="/wiki/Japan" title="Japan">Japan</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Produktionsjahr(e):</td>
+<td>1995</td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Produzent:</td>
+<td>
+<p><a href="/w/index.php?title=Noriko_Kobayashi&amp;action=edit&amp;redlink=1" class="new" title="Noriko Kobayashi (Seite nicht vorhanden)">Noriko Kobayashi</a> (TV Tōkyō), <a href="/w/index.php?title=Yutaka_Sugiyama&amp;action=edit&amp;redlink=1" class="new" title="Yutaka Sugiyama (Seite nicht vorhanden)">Yutaka Sugiyama</a></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Länge pro Folge:</td>
+<td>etwa 25 Minuten</td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Anzahl der Folgen:</td>
+<td>26</td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Originalsprache:</td>
+<td><a href="/wiki/Japanische_Sprache" title="Japanische Sprache">Japanisch</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Titellied:</td>
+<td><i>Zankoku na Tenshi no Tēze</i> (deutsch „These des grausamen Engels“)</td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Idee:</td>
+<td><a href="/wiki/Hideaki_Anno" title="Hideaki Anno">Hideaki Anno</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Genre:</td>
+<td><a href="/wiki/Science_Fiction" title="Science Fiction">Science Fiction</a>, <a href="/wiki/Mecha" title="Mecha" class="mw-redirect">Mecha</a>, <a href="/wiki/Dystopie" title="Dystopie">Dystopie</a>, <a href="/wiki/Parabel_(Sprache)" title="Parabel (Sprache)">Parabel</a>, <a href="/wiki/Philosophie" title="Philosophie">Philosophie</a>, <a href="/wiki/Psychologie" title="Psychologie">Psychologie</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Erstausstrahlung:</td>
+<td>4. Oktober 1995 – 27. März 1996<br />
+auf <a href="/wiki/TV_Tokyo" title="TV Tokyo">TV Tokyo</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top; background: #F0F8FF;">Erstausstrahlung&#160;(de):</td>
+<td>1998<br />
+auf <a href="/wiki/VOX" title="VOX">VOX</a></td>
+</tr>
+<tr>
+<th colspan="2" style="background: #ADD8E6; text-align: center;"><a href="#Synchronisation" title="">Synchronisation</a></th>
+</tr>
+</table>
+<p><b>Neon Genesis Evangelion</b> (<a href="/wiki/Japanische_Schrift" title="Japanische Schrift">jap.</a> <span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">新世紀エヴァンゲリオン</span> <i>Shin Seiki Evangerion</i>, auch kurz <b>NGE</b> oder <b>EVA</b>) ist eine international erfolgreiche <a href="/wiki/Anime" title="Anime">Anime</a>-<a href="/wiki/Fernsehserie" title="Fernsehserie">Fernsehserie</a> aus dem Jahr 1995. Die Serie ist auch Grundlage für mehrere später erschienene Filme, <a href="/wiki/Manga" title="Manga">Mangas</a> und Videospiele und gilt als eine der bedeutendsten Animeserien. <sup id="cite_ref-Azuma_0-0" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup><sup id="cite_ref-rev_1-0" class="reference"><a href="#cite_note-rev-1" title="">[2]</a></sup></p>
+<p>Die Serie handelt vom Kampf gegen die Vernichtung der Menschheit und den psychischen Problemen der Charaktere. Sie lässt sich in die Genre <a href="/wiki/Science_Fiction" title="Science Fiction">Science Fiction</a>, <a href="/wiki/Mecha" title="Mecha" class="mw-redirect">Mecha</a> und <a href="/wiki/Dystopie" title="Dystopie">Dystopie</a> einordnen und enthält verschiedene Elemente aus <a href="/wiki/Philosophie" title="Philosophie">Philosophie</a> und <a href="/wiki/Psychologie" title="Psychologie">Psychologie</a>.</p>
+<table id="toc" class="toc" summary="Inhaltsverzeichnis">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Inhaltsverzeichnis</h2>
+</div>
+<ul>
+<li class="toclevel-1"><a href="#Handlung"><span class="tocnumber">1</span> <span class="toctext">Handlung</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Vorgeschichte"><span class="tocnumber">1.1</span> <span class="toctext">Vorgeschichte</span></a></li>
+<li class="toclevel-2"><a href="#Hauptgeschichte"><span class="tocnumber">1.2</span> <span class="toctext">Hauptgeschichte</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Charaktere"><span class="tocnumber">2</span> <span class="toctext">Charaktere</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Children"><span class="tocnumber">2.1</span> <span class="toctext">Children</span></a></li>
+<li class="toclevel-2"><a href="#Weitere_Hauptcharaktere"><span class="tocnumber">2.2</span> <span class="toctext">Weitere Hauptcharaktere</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Technologie"><span class="tocnumber">3</span> <span class="toctext">Technologie</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Evangelions"><span class="tocnumber">3.1</span> <span class="toctext">Evangelions</span></a></li>
+<li class="toclevel-2"><a href="#MAGI"><span class="tocnumber">3.2</span> <span class="toctext">MAGI</span></a></li>
+<li class="toclevel-2"><a href="#Lanze_des_Longinus"><span class="tocnumber">3.3</span> <span class="toctext">Lanze des Longinus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Engel"><span class="tocnumber">4</span> <span class="toctext">Engel</span></a></li>
+<li class="toclevel-1"><a href="#Entstehung_und_Produktion"><span class="tocnumber">5</span> <span class="toctext">Entstehung und Produktion</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Produktion"><span class="tocnumber">5.1</span> <span class="toctext">Produktion</span></a></li>
+<li class="toclevel-2"><a href="#Motivation_und_Entstehung"><span class="tocnumber">5.2</span> <span class="toctext">Motivation und Entstehung</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Konzeption_und_Stil"><span class="tocnumber">6</span> <span class="toctext">Konzeption und Stil</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Stil"><span class="tocnumber">6.1</span> <span class="toctext">Stil</span></a></li>
+<li class="toclevel-2"><a href="#Anmerkungen_zum_Titel"><span class="tocnumber">6.2</span> <span class="toctext">Anmerkungen zum Titel</span></a></li>
+<li class="toclevel-2"><a href="#Einfl.C3.BCsse"><span class="tocnumber">6.3</span> <span class="toctext">Einflüsse</span></a></li>
+<li class="toclevel-2"><a href="#Erster_Teil"><span class="tocnumber">6.4</span> <span class="toctext">Erster Teil</span></a></li>
+<li class="toclevel-2"><a href="#Zweiter_Teil"><span class="tocnumber">6.5</span> <span class="toctext">Zweiter Teil</span></a></li>
+<li class="toclevel-2"><a href="#Die_letzten_zwei_Folgen"><span class="tocnumber">6.6</span> <span class="toctext">Die letzten zwei Folgen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Ver.C3.B6ffentlichung"><span class="tocnumber">7</span> <span class="toctext">Veröffentlichung</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Synchronisation"><span class="tocnumber">7.1</span> <span class="toctext">Synchronisation</span></a></li>
+<li class="toclevel-2"><a href="#Musik"><span class="tocnumber">7.2</span> <span class="toctext">Musik</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Kinofilme"><span class="tocnumber">8</span> <span class="toctext">Kinofilme</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Rebuild_of_Evangelion"><span class="tocnumber">8.1</span> <span class="toctext">Rebuild of Evangelion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Adaptionen"><span class="tocnumber">9</span> <span class="toctext">Adaptionen</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Manga"><span class="tocnumber">9.1</span> <span class="toctext">Manga</span></a></li>
+<li class="toclevel-2"><a href="#Realfilm"><span class="tocnumber">9.2</span> <span class="toctext">Realfilm</span></a></li>
+<li class="toclevel-2"><a href="#B.C3.BCcher"><span class="tocnumber">9.3</span> <span class="toctext">Bücher</span></a></li>
+<li class="toclevel-2"><a href="#Musikver.C3.B6ffentlichungen"><span class="tocnumber">9.4</span> <span class="toctext">Musikveröffentlichungen</span></a></li>
+<li class="toclevel-2"><a href="#Videospiele"><span class="tocnumber">9.5</span> <span class="toctext">Videospiele</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Rezeption_und_Auswirkungen"><span class="tocnumber">10</span> <span class="toctext">Rezeption und Auswirkungen</span></a>
+<ul>
+<li class="toclevel-2"><a href="#In_Japan"><span class="tocnumber">10.1</span> <span class="toctext">In Japan</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Erfolg"><span class="tocnumber">10.1.1</span> <span class="toctext">Erfolg</span></a></li>
+<li class="toclevel-3"><a href="#Interpretation_und_Bedeutung"><span class="tocnumber">10.1.2</span> <span class="toctext">Interpretation und Bedeutung</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#International"><span class="tocnumber">10.2</span> <span class="toctext">International</span></a></li>
+<li class="toclevel-2"><a href="#In_Deutschland"><span class="tocnumber">10.3</span> <span class="toctext">In Deutschland</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Quellen"><span class="tocnumber">11</span> <span class="toctext">Quellen</span></a></li>
+<li class="toclevel-1"><a href="#Weblinks"><span class="tocnumber">12</span> <span class="toctext">Weblinks</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+ if (window.showTocToggle) { var tocShowText = "Anzeigen"; var tocHideText = "Verbergen"; showTocToggle(); } 
+//]]>
+</script>
+<p><a name="Handlung" id="Handlung"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=1" title="Abschnitt bearbeiten: Handlung">Bearbeiten</a>]</span> <span class="mw-headline">Handlung</span></h2>
+<p><a name="Vorgeschichte" id="Vorgeschichte"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=2" title="Abschnitt bearbeiten: Vorgeschichte">Bearbeiten</a>]</span> <span class="mw-headline">Vorgeschichte</span></h3>
+<p>Nach dem Fund einer riesigen humanoiden Kreatur, die in einer Höhle unter Tokio verschüttet liegt, wird überall auf der Erde nach weiteren solchen Wesen gesucht, wie sie in den <a href="/wiki/Qumran_Schriftrollen" title="Qumran Schriftrollen" class="mw-redirect">Schriftrollen von Qumran</a> im Rahmen der darin für das Jahr 2015 vorhergesagten <a href="/wiki/Apokalypse" title="Apokalypse">Apokalypse</a> als dann hernieder kommende <a href="/wiki/Engel" title="Engel">Engel</a> prophezeit werden. Die Schriftrollen sind im Besitz der geheimen Organisation <i>SEELE</i>, die auch die Expedition veranlasst. Diese Organisation will mithilfe der Schriftrollen und den daraus gewonnenen Kenntnissen die Apokalypse nutzen, um die Menschheit auf eine höhere, gottgleiche Stufe der Evolution zu heben.</p>
+<p>Im September des Jahres 2000 unternimmt eine Gruppe von Wissenschaftlern unter der Leitung von Doktor Katsuragi die sogenannte „Katsuragi-Expedition“ in die <a href="/wiki/Antarktis" title="Antarktis">Antarktis</a>. Dort entdeckt die Expedition den ersten Engel <i>Adam</i>. Dieser hebt, als er aus dem Schlafe erweckt werden soll, am 13. September zur Selbstzerstörung an und löst durch die damit einhergegangene Explosion die Schmelze des Polareises aus. Dadurch steigt der Meeresspiegel sehr stark an, was weltweite Flutkatastrophen hervorruft. Diese lösen wiederum aufgrund der Auswirkungen auf das globale Klima Dürren, Seuchen, Bürgerkriege und Massensterben aus. In der Folge schrumpft die Weltbevölkerung um mehr als die Hälfte und beträgt - im Jahre 2015 - etwas mehr als drei Milliarden. Viele Küstenstädte fallen den Fluten zum Opfer, darunter auch <a href="/wiki/New_York_City" title="New York City">New York</a>. Dieses gibt deshalb den <a href="/wiki/UNO" title="UNO" class="mw-redirect">UNO</a>-Hauptsitz an <a href="/wiki/Tokio" title="Tokio">Tokio</a> ab, das bereits unter dem Namen Neo Tokyo-3 neu errichtet worden war. In Folge dieser Ereignisse wird von SEELE die Tochterorganisationen <i>GEHIRN</i> und das <i>Marduk Institut</i> aus der Taufe gehoben.</p>
+<p>Dem Großteil der Menschheit wird vorgetäuscht, dass die Explosion durch einen <a href="/wiki/Meteorit" title="Meteorit">Meteoriten</a> ausgelöst wurde, der mit nahezu <a href="/wiki/Lichtgeschwindigkeit" title="Lichtgeschwindigkeit">Lichtgeschwindigkeit</a> in die Antarktis einschlug. In Anlehnung an den Meteoriteneinschlag, der zum Aussterben der Dinosaurier führte, nennt man die Explosion den <i>Second Impact</i> („Zweiter Einschlag“).</p>
+<p>GEHIRN wird mit der Konstruktion sogenannter <i>Evangelions</i> (EVAs) betraut. Evangelions sind turmhohe künstliche Lebensformen, geklont aus <i>Adam</i> und der vor ihm gefundenen <i>Lilith</i>. Diese ist das vor Adam gefundene Wesen. In ihrer Höhle wird nun das Hauptquartier von GEHIRN errichtet, darüber entsteht die Stadt Neo Tokio-3. Die EVAs werden mithilfe von <a href="/wiki/Bionik" title="Bionik">Bionik</a> und <a href="/wiki/Mechatronik" title="Mechatronik">Mechatronik</a> ausgerüstet und am Leben erhalten, sie sollen einmal gegen die Engel kämpfen, die noch erwartet werden. Yui Ikari, die an der Konstruktion der EVAs beteiligt war, verschwindet bei einem Testlauf in einer solchen Einheit in der Flüssigkeit LCL im Inneren des EVAs. Ihr Sohn Shinji wird von seinem Vater Gendo Ikari zu einem Lehrer zur Erziehung weggegeben. Die Mitarbeiterin Naoko Akagi, die den Computer MAGI schuf, begeht Selbstmord, nachdem sie den menschlichen Klon Rei ermordet hat. Kyoko Soryu Zeppelin, die in der deutschen Zweigstelle von GEHIRN arbeitet, wird nach einem Testlauf eines EVAs verrückt und erhängt sich bald darauf. In Folge dieser Unglücksfälle wird GEHIRN aufgelöst und die Organisation NERV gegründet, die für den Einsatz der EVAs gegen die Engel zuständig sein soll.</p>
+<p>Für ihre Steuerung werden vom <i>Marduk Institut</i> weltweit die passenden Probanden ausgesucht, die <i>Children</i>. Sie müssen nach dem Second Impact geboren sein und dürfen keine Mutter mehr haben. Shinji Ikari, der Hauptcharakter der Serie, ist ein solch ausgesuchtes Children. Seine Mutter war Yui Ikari.</p>
+<p><a name="Hauptgeschichte" id="Hauptgeschichte"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=3" title="Abschnitt bearbeiten: Hauptgeschichte">Bearbeiten</a>]</span> <span class="mw-headline">Hauptgeschichte</span></h3>
+<p>Im Jahr 2015 wird der 14-jährige Schüler Shinji Ikari von seinem Vater Gendo, der NERV leitet, nach Neo Tokio-3 berufen. Shinji wurde nach dem Tod seiner Mutter von seinem Vater bei einem befreundeten Lehrer untergebracht. Nun soll er die EVA-Einheit 01 steuern und gegen sogenannte Engel kämpfen. Von seinem Vater wird Shinji nicht willkommen geheißen, sondern gleich in den EVA geschickt. Er wird der Offizierin Misato Katsuragi anvertraut, bei der er auch wohnt. Shinji geht nun auch in Neo Tokio-3 auf die Schule, gemeinsam mit der ersten EVA-Pilotin Rei Ayanami. Diese steuert den Prototyp EVA-00, lebt äußerst zurückgezogen und einsam und hat zu niemandem näheren Kontakt. Nur zu Gendo scheint sie in einem engerem Verhältnis zu stehen.</p>
+<p>In der folgenden Zeit zweifelt Shinji zuerst an seiner Eignung zum Piloten, da er die Schwester seines Mitschülers Toji Suzuhara während eines Kampfes verletzt, der ihn daraufhin verprügelt. Er läuft weg und wird daraufhin aus NERV ausgeschlossen, kann dann aber wieder von Misato, Toji und Kensuke Aida, einem weiteren Mitschüler, zurückgeholt werden. Bei gemeinsamen Einsätzen kommen sich auch Rei und Shinji näher, jedoch bleibt Rei weiterhin verschlossen.</p>
+<p>Bald darauf kommt aus Deutschland die Pilotin von EVA-02, Second Children Asuka Soryu Langley, an. Sie hat trotz ihrer 14&#160;Jahre bereits einen Hochschulabschluss, überschäumendes Selbstvertrauen und Temperament. Sie ärgert häufig Toji und Shinji, mit dem sie aber auch zusammen wohnen und arbeiten muss. Dies gelingt nach einigem Training auch im Kampf, so dass die Angriffe der Engel nun routiniert abgewehrt werden können. Auch ein vom japanischen Militär initiiertes Konkurrenzprojekt, ein von einem Nuklearreaktor betriebener ferngesteuerter Roboter namens <i>Jet Alone</i>, scheitert, sodass NERV mit den EVAs weiterhin allein die Engel abwehren kann.</p>
+<p>Mit Asuka ist auch <i>Kaji Ryoji</i>, der Exfreund von Misato, nach Japan gekommen. Dieser ist auch für Asuka verantwortlich, die sich in ihn verliebt hat. Kaji brachte auch im Auftrag von NERV den Engel Adam im Embryonalzustand nach Japan und lieferte ihm bei Gendo ab. Jedoch spioniert er auch bei NERV und findet heraus, dass das <i>Marduk Institut</i> nur eine Scheinorganisation ist, die von NERV gegründet wurde. Dies geschah, um zu vertuschen, dass die Children von der NERV-Spitze selbst ausgewählt werden.</p>
+<p>Nun jedoch treffen Misato und Kaji erneut aufeinander und er will Misato wieder für sich gewinnen. Doch diese weist ihn zurück, da er sie an ihren Vater erinnert. Ganz von ihm lösen kann sie sich aber doch nicht. Beim Angriff Leliels wird Shinji dann durch einen Dirac-See in das Innere des Engels gezogen und droht dort umzukommen. Unerwartet gelingt es ihm, mithilfe einer geheimnisvollen Kraft in EVA-01, sich aus dem Engel zu befreien.</p>
+<p>Schließlich wird Toji Suzuhara als das sogenannte Fourth Children ausgewählt und bekommt EVA-03 zugewiesen, nachdem EVA-04 bereits bei einem Testlauf in den USA samt Forschungszentrum verschwand. Bei der ersten Aktivierung mit Toji als Piloten wird der EVA jedoch vom 13. Engel übernommen. EVA-03 wird daraufhin von EVA-01 zerstört. Dies geschieht durch ein Dummy-Plug-System, das den Befehlen von NERV gehorcht, da Shinji sich als Pilot von EVA-01 weigerte, Toji anzugreifen. Dieser liegt nach dem Vorfall schwer verletzt im Krankenhaus.</p>
+<p>Kaji wird nun von NERV auch als Spion erkannt, er gab mehrfach Informationen an die japanische Regierung weiter und arbeitete auch für SEELE. Nach dem Angriff des 14. Engels, bei dem es zu einem unkontrollierten Amoklauf von EVA-01 kam, kommt es zu immer häufigeren Streitigkeiten zwischen dem SEELE-Komitee und Gendo. Es wird offenbar, dass diese unterschiedliche Ziele verfolgen. Wonach Kaji Kohzo Fuyutsuki, den Unterkommandanten von NERV, für SEELE entführt hat und ihn danach eigenmächtig wieder frei ließ und Misato in Geheimnisse von NERV einweiht, wird er von einer unbekannten Person erschossen.</p>
+<p>Asuka wird stetig deprimierter, da sie bei Kämpfen meist versagt hat und von Shinji gerettet wurde. Nach einer psychischen Attacke Araels, dem 15. Engel, verliert sie ihren Lebensmut und ist nicht mehr in der Lage EVA-02 zu steuern. Der Engel kann nur mithilfe der Longinuslanze besiegt werden, die Rei aus der Brust von Lilith zieht. Der nächste Angriff wird von Rei abgewehrt, indem sie sich mit ihrem EVA selbst in die Luft sprengt. Dennoch taucht Rei bald wieder auf. Daraufhin offenbart Ritsuko Misato und Shinji, dass Rei nur ein Klon aus Lilith und Yui ist und sie jederzeit durch einen weiteren ersetzt werden kann. Die seelenlosen Klone dienen als Dummy-Plug. Als die drei sich im Raum mit den Klonen befinden, zerstört Ritsuko diese.</p>
+<p>Bald darauf taucht das Fifth Children Kaworu Nagisa auf, der nun EVA-02 steuert. Der freundliche, unbefangene und naiv wirkende Kaworu freundet sich mit Shinji an, als dieser kein Vertrauen mehr zu Misato hat. Shinji fasst Vertrauen zu Kaworu und fühlt sich zu ihm hingezogen. Bald aber übernimmt Kaworu eigenmächtig EVA-02 und wird dann als 17. Engel identifiziert. Er dringt ins Terminal-Dogma des NERV-Hauptquartiers ein, wo er den Engel Adam vermutet, mit dem er sich vereinigen will. Als Kaworu es erreicht, erkennt er, dass nicht Adam, sondern Lilith dort gefangen gehalten wird. Shinji muss daraufhin in seinem EVA Kaworu töten. Shinji versinkt daraufhin in Selbstzweifel, da er Kaworu töten musste, obwohl dieser ihm so nahe stand.</p>
+<p>Darauf folgt eine Reise durch Shinjis Gedanken und die anderer Charaktere, in denen deren Ängste und psychische Probleme dargestellt werden. Das Human Instrumentality Projekt, die Vollendung der Menschheit, wird am Beispiel von Shinjis Geist gezeigt, durchgeführt und Shinji gelingt es, seine Ängste zu überwinden.</p>
+<p><a name="Charaktere" id="Charaktere"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=4" title="Abschnitt bearbeiten: Charaktere">Bearbeiten</a>]</span> <span class="mw-headline">Charaktere</span></h2>
+<blockquote>
+<p class="Zitat">„Es ist seltsam, dass Evangelion so ein Erfolg wurde – alle Charaktere sind so krank!“</p>
+<p class="cite"><cite>– <span class="Person">Hideaki Anno<sup id="cite_ref-Wong_2-0" class="reference"><a href="#cite_note-Wong-2" title="">[3]</a></sup></span></cite></p>
+</blockquote>
+<p><a name="Children" id="Children"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=5" title="Abschnitt bearbeiten: Children">Bearbeiten</a>]</span> <span class="mw-headline">Children</span></h3>
+<p>Mit <i>Children</i> werden die Piloten der Evangelion-Einheiten bezeichnet. <i>Children</i> ist dabei ein Eigenname und ist nur dem Plural des englischen <i>Child</i> entlehnt. So wird auch ein einzelner Pilot als <i>Children</i> bezeichnet. In der deutschen Synchronisation wird jedoch im Gegensatz zur japanischen im Singular die Bezeichnung <i>Child</i> verwendet. Allen Children ist gemeinsam, dass sie nach dem Second Impact am 13. September 2000 geboren sind und keine Mutter mehr haben. Des Weiteren werden alle Children und potentiellen Children in einer gemeinsamen Schulklasse unterrichtet.</p>
+<dl>
+<dt>Shinji Ikari (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">碇 シンジ</span>)</dt>
+<dd>Shinji kapselte sich immer mehr von der Außenwelt ab, seit er nach dem Tod seiner Mutter von einem Lehrer anstatt seiner Eltern erzogen wird. Zu seinem Vater entwickelte er ein zerrüttetes Verhältnis. Mit 14 Jahren nun ist er ein schüchterner introvertierter Einzelgänger, der praktisch kein Selbstvertrauen besitzt und sich im Umgang mit anderen Menschen und sich selbst schwer tut.</dd>
+<dd>Er steuert die EVA-Einheit 01 und ist daher das 3rd Children. Dafür ist er als einziger wirklich geeignet, da die Seele Yui Ikaris noch immer im EVA-01 gegenwärtig ist. Obwohl ihm das zunächst nicht bewusst ist, übernimmt Shinji die Aufgabe, da er um Anerkennung und Liebe seines Vaters ringt. Misato Katsuragi wird ihm bald zur Ersatzmutter und im Kampf gegen die Engel gewinnt er Selbstbewusstsein.</dd>
+<dd>Sein Nachname „Ikari“ bedeutet „Wut“ oder „Hass“, die <a href="/wiki/Kanji" title="Kanji">Kanji</a>, mit denen er geschrieben wird, bedeuten „Anker“.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3" title="">[4]</a></sup></dd>
+<dt>Rei Ayanami (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">綾波 レイ</span>)</dt>
+<dd>Rei Ayanami ist das erste der Children und steuert die EVA-Einheit 00. Ihre biographischen Daten sind gelöscht worden. Sie ist ein <a href="/wiki/Klonen" title="Klonen">Klon</a> aus Komponenten von Shinjis Mutter Yui Ikari und dem zweiten Engel Lilith und wuchs in einem <a href="/wiki/Technokratie" title="Technokratie">technokratisch</a> kalten Laborraum auf. Zum Zeitpunkt der Handlung lebt sie in einem kahlen düsteren Appartement in einem abgelegenen Neo Tokioter Stadtteil.</dd>
+<dd>Rei ist noch verschlossener als Shinji. Sie zeigt nur in den seltensten Fällen Emotionen, und stets ist ihr Gesichtsausdruck steinern. Wenn sie einmal überhaupt redet, sind es kurze lakonische Phrasen mit <a href="/wiki/Roboter" title="Roboter">roboterhaft</a> monotoner Stimme. Sie ist stark <a href="/wiki/Autismus" title="Autismus">autistisch</a>.<sup id="cite_ref-Azuma_0-1" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup>Allein Shinjis Vater Gendo Ikari vermag sie sich zu öffnen.</dd>
+<dd>Ihr Körper ist austauschbar, da weitere Klone bereitstehen und nach „Beseelung“ sie ersetzen können. Der erste Rei-Klon wird im Alter von vier Jahren von Naoko Akagi, Ritsukos Mutter, erwürgt, der zweite Klon stirbt bei einer Selbstzerstörung des EVA 00.</dd>
+<dd>Ihr Vorname „Rei“ heißt soviel wie „Geist“, oder auch „Null“ und die <a href="/w/index.php?title=Ayanami&amp;action=edit&amp;redlink=1" class="new" title="Ayanami (Seite nicht vorhanden)">Ayanami</a> sind eine Flugzeugträgerklasse der japanischen Marine.</dd>
+<dt>Asuka Langley Sōryū (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">惣流・アスカ・ラングレー</span>)</dt>
+<dd>Asuka Sōryū Langley ist gebürtige Deutsche japanischer Abstammung. Ihre Mutter, Kyōko Zeppelin Sōryū, arbeitete bei der NERV Zweigstelle 3 in Deutschland. Sie starb wie Shinjis Mutter durch einen missglückten Synchrontest, bei dem sie ihren Verstand verlor und sich bald darauf erhängte. Nach dem Synchrontest erkannte sie Asuka nicht mehr und hielt eine Puppe für ihre Tochter. Daraufhin schwor sich Asuka wegen nichts mehr eine einzige Träne zu vergießen oder sonst einen Hauch von Schwäche zu zeigen. Stets muss sie sich und allen anderen beweisen, dass sie die beste ist. Shinji und seine beiden Freunde Toji und Kensuke werden von ihr gepiesackt, wo es nur geht. Eine überdurchschnittliche <a href="/wiki/Intelligenz" title="Intelligenz">Intelligenz</a> besitzt sie durchaus. So hat sie bereits mit 14 einen Collegeabschluss.</dd>
+<dd><a href="/wiki/S%C5%8Dry%C5%AB" title="Sōryū">Sōryū</a> und <a href="/wiki/USS_Langley_(CV-1)" title="USS Langley (CV-1)">USS Langley</a> sind japanische beziehungweise US-amerikanische Flugzeugträger. <a href="/wiki/Asuka-ky%C5%8D" title="Asuka-kyō">Asuka</a> ist ein altes japanisches Dorf, in welchem um die 1. Jahrtausendwende die Kaiser residierten. <a href="/wiki/Langley" title="Langley">Langley</a> ist der Name mehrerer US-amerikanischen Städte, u.a. <a href="/wiki/Langley_(Virginia)" title="Langley (Virginia)">Langley (Virginia)</a> wo sich der Sitz der <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a> (CIA) befindet.</dd>
+</dl>
+<p><a name="Weitere_Hauptcharaktere" id="Weitere_Hauptcharaktere"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=6" title="Abschnitt bearbeiten: Weitere Hauptcharaktere">Bearbeiten</a>]</span> <span class="mw-headline">Weitere Hauptcharaktere</span></h3>
+<dl>
+<dt>Misato Katsuragi <b>(<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">葛城 ミサト</span>)</b></dt>
+<dd>Die 1986 geborene Misato Katsuragi ist die Tochter des metabiologischen Wissenschaftlers Dr. Katsuragi, unter dessen Obhut die <a href="/wiki/Antarktis" title="Antarktis">Antarktis</a>-Expedition von 2000 stattfand, bei der auch sie mit dabei war. Die damals 14-jährige Misato hat den Second Impact nur überlebt, weil ihr Vater sie in die einzige Rettungskapsel setzte. Zuvor hasste sie ihren Vater, der seine Familie oft allein ließ und nur für seine Arbeit lebte. Doch nachdem er sein Leben für sie geopfert hatte, wusste sie nicht, ob sie ihn hassen oder lieben sollte. Außerdem verursachte der Second Impact bei ihr eine <a href="/wiki/Psychose" title="Psychose">Psychose</a>, sodass sie sich von der Außenwelt abschottete. Erst später öffnete sie sich wieder, besonders Ritsuko. Während des Studiums hatte sie mit Kaji eine stürmische Beziehung, die sie aber bald auflöste, da sie in ihm ihren Vater wieder erkannte. In ihr wuchs ein Hass auf die Engel, wegen der sie taktische Offizierin bei NERV wurde. Daher ist sie für die Einsätze der Children und deren Evangelions unmittelbar verantwortlich. Sie ist nicht über die Pläne von SEELE informiert und glaubt, nach dem Kampf gegen die Engel solle das Leben der Menschen weitergehen wie zuvor. Sie ist der <a href="/wiki/Vormund" title="Vormund" class="mw-redirect">Vormund</a> der Children Shinji und Asuka. Die beiden wohnen bei ihr, was wegen der unterschiedlichen Mentalitäten zu Schwierigkeiten führt. Misato selbst trinkt viel Bier, ist unordentlich und zu Hause ungeniert. Dagegen verrichtet sie ihren Beruf mit feurigem Eifer und höchster Professionalität. Ihre häufig knappe Bekleidung freut zwar Shinjis Mitschüler Kensuke und Toji, doch ist sie ihm peinlich.</dd>
+<dd>Misato hat ein besonderes Haustier: Den Warmwasserpinguin Pen-Pen (oder Pen²), ein Versuchstier, dessen sie sich angenommen hat, als es nicht mehr gebraucht wurde.</dd>
+<dd>Bei „<a href="/wiki/Katsuragi" title="Katsuragi">Katsuragi</a>“ handelt es sich um eine japanische Kriegsschiffklasse.</dd>
+<dt>Gendō Ikari (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">碇 ゲンドウ</span>)</dt>
+<dd>Vor der Heirat mit Yui Ikari hieß er Rokubungi, was auf deutsch <a href="/wiki/Sextant" title="Sextant">Sextant</a> heißt. Nach den Tod seiner Frau will er mit keinem Menschen mehr ein tieferes Verhältnis eingehen und verbirgt seine Gefühle. Wenn er Entscheidungen trifft, so steht bei ihm allein die Kampfeseffektivität im Vordergrund, auch Menschenleben haben dahinter zurückzutreten. Er handelt oft nach den Befehlen des SEELE-Komitees, doch mit Fortschreiten der Handlung kommt es auch zu immer mehr Konflikten mit SEELE.</dd>
+<dd>Der Charakter Gendos ist in Japan nicht sehr beliebt, weil er als zu streng empfunden wird. Jedoch war gerade dies die Absicht Hideaki Annos, weil er glaubt, die modernen japanischen Väter seien „verweichlicht“.<sup id="cite_ref-Kazuya_4-0" class="reference"><a href="#cite_note-Kazuya-4" title="">[5]</a></sup></dd>
+</dl>
+<p><a name="Technologie" id="Technologie"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=7" title="Abschnitt bearbeiten: Technologie">Bearbeiten</a>]</span> <span class="mw-headline">Technologie</span></h2>
+<p><a name="Evangelions" id="Evangelions"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=8" title="Abschnitt bearbeiten: Evangelions">Bearbeiten</a>]</span> <span class="mw-headline">Evangelions</span></h3>
+<p>Evangelions, oder kurz <i>EVAs</i>, sind <i>künstliche Lebensformen</i> von menschlicher Gestalt mit 40m Höhe. Bis auf Modell 01, der aus dem Engel Lilith geklont wurde, sind alle weiteren EVAs <a href="/wiki/Klonen" title="Klonen">Klone</a> des Engels Adam. Schöpferin der EVAs ist Yui Ikari, die Mutter Shinjis. Der Eva verfügt über einen schnellen <a href="/wiki/Stoffwechsel" title="Stoffwechsel">Stoffwechsel</a> und vermag sich in Sekundenschnelle selbst zu heilen, sogar wenn die blanken Knochen freigelegt wurden. Allerdings ist diese Heilkraft nicht unbegrenzt, denn bei mehr als 50% Schaden wird die <a href="/w/index.php?title=Heyflickgrenze&amp;action=edit&amp;redlink=1" class="new" title="Heyflickgrenze (Seite nicht vorhanden)">Heyflickgrenze</a> überschritten und der Eva ist in Lebensgefahr.</p>
+<p>Der Name <i>Evangelion</i> für die Kampfeinheiten wurde laut Anno gewählt, weil „es kompliziert klingt“.<sup id="cite_ref-Annotokids_5-0" class="reference"><a href="#cite_note-Annotokids-5" title="">[6]</a></sup></p>
+<p>Die EVAs sind äußerlich nahezu gänzlich von einer schützenden Rüstung aus <a href="/wiki/Titan_(Element)" title="Titan (Element)">Titanstahl</a> überzogen, was ihnen ein <a href="/wiki/Roboter" title="Roboter">roboterähnliches</a> Aussehen verleiht, auch wenn sie im Grunde lebende Organismen sind. Diese Rüstung dient jedoch auch dazu, die Evas zu kontrollieren. Das wichtigste Verteidigungssystem eines Evas ist jedoch das <i>Absolute Terrorfeld</i>, kurz A.T.-Feld, der bei NGE technische Begriff für <i>Aura</i> oder <i><a href="/wiki/Seele" title="Seele">Seele</a></i>. Jeder Engel und Mensch verfügt über ein solches Feld. Der EVA bekommt ein solches aber erst mit dem Piloten. In der Titanrüstung befindet sich die Bewaffnung, so <a href="/wiki/Positron" title="Positron">Positronengewehre</a> oder Progressivmesser mit <a href="/wiki/Ultraschall" title="Ultraschall">ultraschallschnell</a> schwingender Klinge.</p>
+<p>Der EVA wird über ein <i>Umbilikalkabel</i>, welches vom Rückenmark ausgeht, mit <a href="/wiki/Elektrizit%C3%A4t" title="Elektrizität">elektrischer Energie</a> versorgt. Das zentrale Nervensystem des Evas wird mit elektrischen Impulsen stimuliert, die der Pilot mittels <i>Gedankensynchronisation</i> in Bewegung umsetzt. Da ein EVA normalerweise in ein künstliches Wachkoma versetzt wurde, bewegt er sich nicht selbstständig. Dies geschieht aber beim „Erwachen“ und den daraus resultierenden <a href="/wiki/Amok" title="Amok">Amokläufen</a>. Wegen der Angreifbarkeit des Umbilikalkabel wird versucht, ein <i>S²-Organ</i>, das seine unerschöpfliche Energie direkt aus dem <a href="/wiki/Dirac-See" title="Dirac-See">Dirac-See</a> zieht, in den EVA zu integrieren. Dies läuft jedoch beim ersten Versuch, dem Modell 04, schief. EVA-01 gelangt zu einem S²-Organ, indem er das eines Engels verspeist. Bei den Massenproduktionsmodellen 05-13 gelingt der Einbau. Die Organe basieren auf der <i>Supersolenoidtheorie</i> (S²-Theorie), nach der es möglich ist Materie verlustfrei in Energie umzuwandeln, da diese nur ein „Schatten“ aus der Welt des Dirac-Sees ist.</p>
+<p>Die EVAs werden von den Children gesteuert, die sich im <i>Entry Plug</i> befinden. Dies ist eine längliche Kapsel, die dem EVA in den Nacken geschoben wird, mit dem unteren Ende in Herznähe. Das Children trägt einen <i>Plug Suit</i> zum Schutz vor Verletzungen und ein Headset mit zwei <i>Nervenkoppeln</i>, die sich auf dem Kopf zwecks der Synchronisation befinden. Das wichtigste Medium im EVA ist allerdings die <i>Link Connection Liquid</i> (dt. etwa „Verbindungskoppelflüssigkeit“) oder kurz <i>LCL</i>. Diese befindet sich im Plug und stellt die <a href="/wiki/Telepathie" title="Telepathie">telepathische</a> Verbindung zwischen Pilot und EVA und die Sauerstoffversorgung sicher. Es wird aus dem Blut Liliths gewonnen und auch <i>„Wasser des Lebens“</i> genannt. Dieses LCL ist eine Art <i>Ursuppe</i>, aus der Körper und Seele bestehen. Bei einer Synchronisation nimmt das Children zunächst in voller Montur im luftgefüllten Entry Plug Platz, danach wird das LCL eingeleitet und die Synchronisation mit dem EVA begonnen. Es besteht ständig Kontakt mit dem Zentralsteuerungscomputer.</p>
+<p>Ein EVA kann auch mithilfe eines <i>Dummy Plugs'</i> gesteuert werden, welches ein System beinhaltet, dass die Gedankenmuster eines Piloten gespeichert hat und diese benutzt, um dem EVA die Anwesenheit eines Piloten vortäuschen. So kann der EVA ferngesteuert werden, verfügt dabei aber über kein AT-Feld, das nur durch die physische Verbindung des Piloten mit der EVA-Einheit zustandekommt. Die einzige Möglichkeit einer Verteidigung besteht darin, den Gegner durch pausenlose Angriffe zu bezwingen.</p>
+<dl>
+<dt>Evangelion Einheit 00 (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">零号機</span>, <i>Zerogōki</i>)</dt>
+<dd>Bei dem in Japan gebauten Evangelion Einheit 00 handelt es sich um die erstmalig erfolgreich „zum Leben erweckte“ EVA-Einheit, die aus Adam geklont wurde. Diese Einheit zeigt hinblicklich seiner Funktionstüchtigkeit noch erhebliche technische Mängel. Bei so manchen Testläufen lief er Amok und ging dabei gezielt auf Gendo Ikari, Ritsuko Akagi und sogar seine Pilotin Rei Ayanami los.</dd>
+<dt>Evangelion Einheit 01 (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">初号機</span>, <i>Shogōki</i>)</dt>
+<dd>Die Einheit 01 wurde als Testtyp gebaut und wird von Shinji Ikari gesteuert. Er ist als einziger von Lilith geklont und hat daher eine besondere Bestimmung. Nachdem er ein S²-Organ verzehrt hat und somit eine eigene Energiequelle besitzt wird er zum zentralen Bestandteil des <i>Projekts zur Vervollkommnung der Menschheit</i> in <a href="/wiki/The_End_of_Evangelion" title="The End of Evangelion" class="mw-redirect">The End of Evangelion</a>. Die Synchronisationsfähigkeit des EVAs mit Shinji wird gewährleistet durch die Seele seiner Mutter Yui Ikari, die mit dem Evangelion bei einem Synchrontest verschmolzen ist.</dd>
+<dt>Evangelion Einheit 02 (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">弐号機</span>, <i>Nigōki</i>)</dt>
+<dd>Im Gegensatz zu den Einheiten 00 und 01 ist EVA-02 die erste richtige Produktionseinheit und explizit auf den Kampf mit den Engeln ausgerichtet. Entsprechend ist sie in der Lage mit dem gesamten Waffenarsenal umzugehen, was ihre Vorgänger noch nicht vermochten. Allerdings ist sie, da sie im Third Impact keine große Rolle übernehmen kann, entbehrlich und nimmt deshalb an allen Kämpfen an vorderster Front teil, während die anderen sich eher zurückhalten. Asuka ist mit EVA-02 kompatibel, dadurch dass die Seele von Asukas Mutter mit dem EVA bei einem Synchrontest verschmolz.</dd>
+</dl>
+<p><a name="MAGI" id="MAGI"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=9" title="Abschnitt bearbeiten: MAGI">Bearbeiten</a>]</span> <span class="mw-headline">MAGI</span></h3>
+<p>Der von Naoko Akagi konzipierte und von ihrer Tochter Ritsuko 2010 fertiggestellte Zentralcomputer NERVs, benannt nach den <a href="/wiki/Heilige_Drei_K%C3%B6nige" title="Heilige Drei Könige">Heiligen Drei Königen</a> („Magi“) Kaspar, Melchior und Baltasar, ist der elektronische Rückhalt bei schwierigen Entscheidungen. Er analysiert die angreifenden Engel und rezensiert die vorentworfenen Strategien.</p>
+<p>Sein Vorteil sei seine vollkommen emotions- und individualitätslose <a href="/wiki/Logik" title="Logik">Logik</a>. Jedoch besteht der Computer nicht nur aus Elektronik. Kernstück jeder Teileinheit bildet ein künstlich gezüchtetes Gehirn, das aus Naoko geklont wurde. MAGI ist in drei <a href="/wiki/Partition_(Server)" title="Partition (Server)">Partitionen</a> unterteilt, MELCHIOR-1, BALTHASAR-2 und CASPER-3, die zunächst unabhängig von einander agieren und dann eine Entscheidung gemeinsam durch <a href="/wiki/Demokratie" title="Demokratie">demokratische</a> Mehrheitsgewinnung erzielen. Eine Ausnahme stellt die Entscheidungsfindung bei einer Selbstzerstörungsinitiation dar, bei der alle drei „Mitglieder“ dafür stimmen müssen.</p>
+<p>Die drei Teile des Computers stellen drei Teile der Persönlichkeit von Naoko Akagi dar. MELCHIOR-1 „denkt“ wie Naoko als Wissenschaftlerin, BALTHASAR-2 wie Naoko als Mutter und CASPER-3 wie sie als Frau. Dadurch besitzt der Computer auch menschliche Subjektivität.</p>
+<p><a name="Lanze_des_Longinus" id="Lanze_des_Longinus"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=10" title="Abschnitt bearbeiten: Lanze des Longinus">Bearbeiten</a>]</span> <span class="mw-headline">Lanze des Longinus</span></h3>
+<p>Dieses Artefakt, das von Expeditionsschiffen von NERV vom Südpol nach Neo-Tokio-3 gebracht wurde, ist für den Plan zur Vervollkommnung der Menschheit von zentraler Bedeutung. Es ist eine zweizinkige Gabel, die AT-Felder durchstoßen kann. Beim Einsatz gegen einen Engel in der Erdumlaufbahn gerät die Lanze auf eine Mondumlaufbahn und steht somit nicht mehr zur Verfügung. Zuvor hat die Lanze in der Brust Liliths gesteckt, um sie am Wachsen zu hindern und den „Nachschub“ von LCL zu gewährleisten.</p>
+<p>Die echte <a href="/wiki/Longinuslanze" title="Longinuslanze" class="mw-redirect">Longinuslanze</a> ist jene Waffe, mit der der römische <a href="/wiki/R%C3%B6mische_Legion" title="Römische Legion">Legionär</a> <i>Longinus</i> einst in Jesus Körper stach, um festzustellen, ob er noch lebt. Der Lanze wurden daraufhin „göttliche Kräfte“ nachgesagt. Sei sie doch die einzige Waffe, die Gott verletzen konnte. Die Longinuslanze NGEs spielt jedoch auch auf den sagenumwobenen Speer an, mit dem die <a href="/wiki/Shintoismus" title="Shintoismus" class="mw-redirect">shintoistischen</a> Urgötter <a href="/wiki/Izanagi" title="Izanagi" class="mw-redirect">Izanagi</a> und <a href="/wiki/Izanami" title="Izanami" class="mw-redirect">Izanami</a> einst, indem sie ihn ins Urwasser tauchten, die Schöpfung hervorgerufen haben sollen, bevor sie ihn dann in die Erde rammten und dort beließen.</p>
+<p><a name="Engel" id="Engel"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=11" title="Abschnitt bearbeiten: Engel">Bearbeiten</a>]</span> <span class="mw-headline">Engel</span></h2>
+<p>Engel sind riesenhafte Wesen von bis zu mehreren Hundert Metern Höhe (bis auf Iruel, Tabris und die Lilim), die aus einer dem <a href="/wiki/Licht" title="Licht">Licht</a> ähnlichen Materie bestehen. Ihre <a href="/wiki/Desoxyribonukleins%C3%A4ure" title="Desoxyribonukleinsäure">DNA</a> stimmt mit der menschlichen zu 99,89&#160;% überein, womit die Menschen mit den Engeln noch näher verwandt sind als mit den Schimpansen (97&#160;%). Die Engel haben bis auf Tabris immer abstrakte Gestalten, bis hin zu bloßen geometrischen Formen. Dadurch sind sie auch Materialisierungen von <i>Angst ohne Ursache</i>, da das eigentliche Ziel und die Herkunft der Engel unbekannt bleiben und auch die Children sich immer wieder fragen, warum sie die Engel bekämpfen.<sup id="cite_ref-Azuma_0-2" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup> Der im Japanischen für dieses Wesen verwendete Begriff <i>Shito</i> (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">使徒</span>) bedeutet auf Deutsch eigentlich <i>Apostel</i>, doch war die Übersetzung ins englische <i>Angel</i> von Hideaki Anno selbst so gewollt.</p>
+<ol>
+<li><b>Adam</b>, nach dem biblischen ersten Menschen <a href="/wiki/Adam_und_Eva" title="Adam und Eva">Adam</a> und dem kabbalistischen Begriff des <a href="/wiki/Adam_Kadmon" title="Adam Kadmon">Adam Kadmon</a>, der Erscheinung Gottes als Schöpfer und dem Urbild des Menschen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></li>
+<li><b>Lilith</b>, nach <a href="/wiki/Lilith" title="Lilith">Lilith</a>, der ersten Frau Adams. Diese soll wie er aus Erde erschaffen doch später aus dem Paradies verstoßen worden sein.</li>
+<li><b>Sachiel</b>, der erste Engel, der in der Serie auftaucht und gegen den Shinji kämpft. Der <a href="/w/index.php?title=Sachiel&amp;action=edit&amp;redlink=1" class="new" title="Sachiel (Seite nicht vorhanden)">Sachiel</a> der <a href="/wiki/J%C3%BCdische_Mythologie" title="Jüdische Mythologie">jüdischen Mythologie</a> gehört zu den <a href="/wiki/Cherubim" title="Cherubim" class="mw-redirect">Cherubim</a>. Nach der Vertreibung des Menschen aus dem Garten Eden wurde Sachiel mit zwei Schwerten vor dessen Pforte gestellt, um die Menschen an einer Rückkehr in das Paradies und den Genuss der Frucht des Lebens zu hindern. Er ist der „Beschützer Gottes“, der „Herr der Vier Elemente“, sowie der „Schutzpatron der Reichen und Starken“. In der Serie ist er auch der <i>Engel des Wassers</i>, der vom Meer aus angreift.</li>
+<li><b>Shamshiel</b>. In der Mythologie ist <a href="/w/index.php?title=Shamshiel&amp;action=edit&amp;redlink=1" class="new" title="Shamshiel (Seite nicht vorhanden)">Shamshiel</a> <i>„Prinz des Paradieses“</i> und ein Wächter des Garten Edens. Laut dem Buch <a href="/wiki/Zohar" title="Zohar" class="mw-redirect">Zohar</a> sei er auf <a href="/wiki/Mose" title="Mose">Moses</a> getroffen und habe ihm die „Oberen Regionen“ (himmlischen Sphären) gezeigt. Als „Engel des Tages“ habe er eine Armee von 365 Engel befehligt. Er sei später gefallen und habe auf der Erde den Menschen die richtige Deutung und Würdigung der Sonne nahe gebracht.</li>
+<li><b>Ramiel</b>. Der mythologische <a href="/w/index.php?title=Ramiel&amp;action=edit&amp;redlink=1" class="new" title="Ramiel (Seite nicht vorhanden)">Ramiel</a> hat die Aufgabe, die Menschen zum Jüngsten Gericht und danach ins Jenseits zu geleiten. Wörtlich übersetzt heißt er „Gnade Gottes“, in der Serie heißt er auch <i>Engel des Donners</i>.</li>
+<li><b>Gaghiel</b>. <a href="/w/index.php?title=Gaghiel&amp;action=edit&amp;redlink=1" class="new" title="Gaghiel (Seite nicht vorhanden)">Gaghiel</a> ist im jüdischen Glauben der Herrscher der Weltmeere und aller darin lebenden Geschöpfe. Ihn rief man, bevor man in See stach zu fischen, damit man reichlich fing. In der Serie ist er auch der <i>Engel der Fische</i>, der NERV in fischähnlicher Gestalt auf hoher See angreift.</li>
+<li><b>Israfael</b>. Der <a href="/wiki/Erzengel" title="Erzengel">Erzengel</a> <a href="/w/index.php?title=Israfel&amp;action=edit&amp;redlink=1" class="new" title="Israfel (Seite nicht vorhanden)">Israfel</a> ist Schirmherr der Musik. Er inspiriert die Menschen zum Singen, Musizieren und komponieren. Sein Antlitz und seine Stimme sind wunderschön und ganze vier Flügel tragen ihn durch die Lüfte. Beim jüngsten Gericht werde er mit seiner Engelstrompete die Toten auferwecken, denn auch für Heilung und Auferstehung ist er zuständig. In NGE wird er durch einen zu Musik geübten synchronen <i>Angriffstanz</i> von Shinji und Asuka besiegt.</li>
+<li><b>Sandalphon</b>. Der Sage zufolge ist <a href="/w/index.php?title=Sandalphon&amp;action=edit&amp;redlink=1" class="new" title="Sandalphon (Seite nicht vorhanden)">Sandalphon</a> der Erzengel der Stärke und des Ruhmes, der auch über das Geschlecht ungeborener Embryos entscheidet, daher ist er in der Serie der <i>Engel des Embryos</i>. Er wird im Embryonalstadium im Inneren eines Vulkans gefunden und auch bekämpft.</li>
+<li><b>Matarael</b>. <a href="/w/index.php?title=Matarael&amp;action=edit&amp;redlink=1" class="new" title="Matarael (Seite nicht vorhanden)">Matarael</a>, der <i>Engel des Regens</i>, lässt Säure auf das Hauptquartier regnen.</li>
+<li><b>Sahaquiel</b>. Der <i>Engel der Luft</i> <a href="/w/index.php?title=Sahaquiel&amp;action=edit&amp;redlink=1" class="new" title="Sahaquiel (Seite nicht vorhanden)">Sahaquiel</a> bombardiert NERV aus dem Orbit mit sich selbst.</li>
+<li><b>Iruel</b>. Dem bakteriengroßen <i>Engel des Schreckens</i> <a href="/w/index.php?title=Iruel&amp;action=edit&amp;redlink=1" class="new" title="Iruel (Seite nicht vorhanden)">Iruel</a> gelingt es fast, den MAGI zu übernehmen.</li>
+<li><b>Leliel</b>. Der <i>Engel der Nacht</i> <a href="/w/index.php?title=Leliel&amp;action=edit&amp;redlink=1" class="new" title="Leliel (Seite nicht vorhanden)">Leliel</a> generiert einen <a href="/wiki/Dirac-See" title="Dirac-See">Dirac-See</a>.</li>
+<li><b>Bardiel</b>. Dieser sogenannte <i>Engel der Zufälle und des Nebels</i> infiltriert EVA-03 und wird so Toji zum Verhängnis. In der Mythologie gilt <a href="/w/index.php?title=Bardiel&amp;action=edit&amp;redlink=1" class="new" title="Bardiel (Seite nicht vorhanden)">Bardiel</a> als der Engel des Hagels und Nebels. Er habe keinen festen Körper, sondern dringt immer in den Körper eines lebenden Geschöpfes ein. Auch sei er für (unglückliche) Zufälle verantwortlich.</li>
+<li><b>Zeruel</b>. Dem <i>Engel der Macht</i> <a href="/w/index.php?title=Zeruel&amp;action=edit&amp;redlink=1" class="new" title="Zeruel (Seite nicht vorhanden)">Zeruel</a> gelingt es, bis in die Kommandozentrale von NERV vorzudringen.</li>
+<li><b>Arael</b>. Der <i>Engel der Vögel und des Lichts</i> <a href="/w/index.php?title=Arael&amp;action=edit&amp;redlink=1" class="new" title="Arael (Seite nicht vorhanden)">Arael</a> greift aus dem Orbit Asukas Psyche mit einer Art hellem Lichtstrahl an.</li>
+<li><b>Armisael</b>. <a href="/w/index.php?title=Armisael&amp;action=edit&amp;redlink=1" class="new" title="Armisael (Seite nicht vorhanden)">Armisael</a> wird auch <i>Engel des Ursprungs</i> genannt.</li>
+<li><b>Tabris</b>. Der <i>Engel des freien Willens</i>, der als <i>Kaworu Nagisa</i> erscheint, und Shinji nach dem Kampf auffordert, ihn zu töten. Der Legende nach ist <a href="/w/index.php?title=Tabris&amp;action=edit&amp;redlink=1" class="new" title="Tabris (Seite nicht vorhanden)">Tabris</a> der Engel der Sechsten Stunde, des freien Willens, der freien Entscheidung und des Selbstbewusstseins. Wann immer man eine schwere Entscheidung zu treffen habe, rufe man Tabris, auf dass er einem weiterhelfe.</li>
+<li><b>Lilim</b>. Tabris bezeichnet die Menschheit als Lilim. Im <a href="/wiki/Talmud" title="Talmud">Talmud</a> sind <a href="/wiki/Lilim" title="Lilim" class="mw-redirect">Lilim</a> die Dämonen, die Lilith gebiert, nachdem sie aus dem Paradies verstoßen wurde.</li>
+</ol>
+<p><a name="Entstehung_und_Produktion" id="Entstehung_und_Produktion"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=12" title="Abschnitt bearbeiten: Entstehung und Produktion">Bearbeiten</a>]</span> <span class="mw-headline">Entstehung und Produktion</span></h2>
+<blockquote>
+<p class="Zitat">„‚Evangelion‘ ist mein Leben und ich habe alles, was ich weiß, in dieses Werk gesteckt. Das ist mein ganzes Leben. Mein Leben selbst.“</p>
+<p class="cite"><cite>– <span class="Person">Hideaki Anno<sup id="cite_ref-zitat_7-0" class="reference"><a href="#cite_note-zitat-7" title="">[8]</a></sup></span></cite></p>
+</blockquote>
+<p><a name="Produktion" id="Produktion"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=13" title="Abschnitt bearbeiten: Produktion">Bearbeiten</a>]</span> <span class="mw-headline">Produktion</span></h3>
+<p>Die <a href="/wiki/Anime" title="Anime">Anime</a>-<a href="/wiki/Fernsehserie" title="Fernsehserie">Fernsehserie</a> wurde 1995 und 1996 von Studio <a href="/wiki/Gainax" title="Gainax" class="mw-redirect">Gainax</a> produziert. Neben <a href="/wiki/Hideaki_Anno" title="Hideaki Anno">Hideaki Anno</a> als Regisseur, Coproduzent, Cocharakterdesigner und Comusikschreiber waren <a href="/wiki/Yoshiyuki_Sadamoto" title="Yoshiyuki Sadamoto">Yoshiyuki Sadamoto</a> als Charakter-Designer und <a href="/w/index.php?title=Hiroshi_Kato&amp;action=edit&amp;redlink=1" class="new" title="Hiroshi Kato (Seite nicht vorhanden)">Hiroshi Kato</a> als künstlerischer Leiter beteiligt. Die Animation wurde teilweise auch vom Studio <a href="/wiki/Production_I.G" title="Production I.G">Production I.G</a> produziert, in Folge elf auch vom <a href="/wiki/Studio_Ghibli" title="Studio Ghibli">Studio Ghibli</a>.</p>
+<p><a name="Motivation_und_Entstehung" id="Motivation_und_Entstehung"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=14" title="Abschnitt bearbeiten: Motivation und Entstehung">Bearbeiten</a>]</span> <span class="mw-headline">Motivation und Entstehung</span></h3>
+<p>Hideaki Anno hatte eine lange schwere <a href="/wiki/Depression" title="Depression">Depression</a>, die auch die Inhalte von NGE beeinflusste. Zu Beginn stand bei der Produktion Annos Idee im Vordergrund, durch die Serie die Zahl der Anime-Fans, der <a href="/wiki/Otaku" title="Otaku">Otakus</a>, zu vervielfachen. So wollte er die zu dieser Zeit vorherrschende Isolation der Fans aufbrechen.<sup id="cite_ref-nettime_8-0" class="reference"><a href="#cite_note-nettime-8" title="">[9]</a></sup> Die Handlung sollte einen Kampf zwischen den Menschen und Göttern darstellen. Als Hauptcharakter war zunächst ein Mädchen geplant, wie es in vorherigen Produktionen des Studios, zum Beispiel <i>Gunbuster</i> oder <i>Die Macht des Zaubersteins</i>, war. Dieser Entwurf war der späteren Asuka ähnlich, wurde jedoch verworfen, weil man zum einen das Konzept der anderen Serien nicht wiederholen wollte und sich einen Jungen eher als Piloten einer Kampfmaschine besser vorstellen konnte. Die Idee, dass die toten Mütter der Piloten in den EVAs weiterleben würden, hatte Yoshiyuki Sadamoto durch eine Fernseh-Dokumentation über den A10-<a href="/wiki/Nerv" title="Nerv">Nerv</a>. Durch den frühen Tod der Mütter hätten die Piloten außerdem eine besondere Entwicklung erfahren. Das Verhältnis von Asuka zu Shinji wurde dem von Nadia zu Jean aus <i><a href="/wiki/Die_Macht_des_Zaubersteins" title="Die Macht des Zaubersteins">Die Macht des Zaubersteins</a></i> nachempfunden. Rei wurde als Gegensatz zu Asuka entworfen. <sup id="cite_ref-SadaMond_9-0" class="reference"><a href="#cite_note-SadaMond-9" title="">[10]</a></sup></p>
+<p>Der Handlungsverlauf der Serie war ursprünglich anders geplant als er später realisiert wurde. In der ersten Folge sollte bereits ein Kampf zwischen Rei und einem Engel gezeigt werden, Shinji sollte erst nach dem Sieg des Engels über Rei eingesetzt werden. Die meisten anderen frühen Folgen aber entsprechen in etwa dem zu Beginn geplanten. Ab Folge 13 aber wurde die Handlung immer mehr abgeändert. Nur Folge 16 entspricht im ersten Teil noch der ursprünglich geplanten. In der ersten Version des Endes sollte ein Engel vom Mond die Menschheit bedrohen, die UN sich vom Projekt zur Vollendung der Menschheit abwenden und Ritsuko und Gendo als Verteidiger des Projekts verbleiben. Ein Entscheidungskampf in einer antiken Ruine „Aluka“ würde die Entscheidung gegen das Projekt bringen, wodurch auch NERV zerstört würde.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10" title="">[11]</a></sup></p>
+<p>Das Drehbuch wurde allerdings erst während der Produktion der Serie geschrieben und deren Ausstrahlung begonnen, als erst einige Folgen fertig produziert waren. So wurde der spätere Handlungsverlauf auch von den Reaktionen der Fans und dem Umdenken Hideaki Annos beeinflusst, sowie der Zeitknappheit, die gegen Ende der Serie eintrat.<sup id="cite_ref-EyesofAnno_11-0" class="reference"><a href="#cite_note-EyesofAnno-11" title="">[12]</a></sup> Außerdem wurde das Szenario wegen des Giftgasanschlags der <a href="/wiki/Aum-Sekte" title="Aum-Sekte" class="mw-redirect">Aum-Sekte</a> verändert, da das ursprünglich geplante zu dicht an den tatsächlichen Ereignissen war. Hideaki Anno wollte aber der Serie nicht ihren fiktiven Charakter und damit das Interpretationspotential nehmen und änderte die Handlung so, dass die Parallelen zur Realität weniger offensichtlich waren. Jedoch sagte Anno auch, dass hinter den Vorfällen mit der Aum-Sekte und NGE das gleiche gesellschaftliche Problem der Abgrenzung von der Gesellschaft und der Entfremdung stehen.<sup id="cite_ref-nettime_8-1" class="reference"><a href="#cite_note-nettime-8" title="">[9]</a></sup></p>
+<p>Ab der 16. Folge, <i>Zwischen Leben und Tod</i> (死に至る病、そして / Splitting of the Breast), veränderte sich die Konzeption der Serie und die Handlung entfernte sich mehr und mehr vom Originalentwurf. Dies lag darin begründet, dass Hideaki Anno von den Reaktionen auf die Serie unzufrieden war.<sup id="cite_ref-Tsurumaki_12-0" class="reference"><a href="#cite_note-Tsurumaki-12" title="">[13]</a></sup> Daraufhin änderte sich die Serie in eine kritischere Richtung, es wurden besonders Anime-Fans und ihre Lebensweise kritisiert.<sup id="cite_ref-Azuma_0-3" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup> Anno wollte zudem durch die Gewalt und Sexszenen ein Verständnis für das <i>wahre Leben</i> vermitteln und die Geschichte so weiterentwickeln. Außerdem sollten die Zuschauer, darunter besonders Kinder, abgehärtet und auf das Leben vorbereitet werden. Dazu kam, dass Hideaki Anno in dieser Zeit begann, Bücher über <a href="/wiki/Psychologie" title="Psychologie">Psychologie</a> und psychische Krankheiten zu lesen. Davon fasziniert, wollte er zeigen, was im menschlichen Geist vorgeht. Nun wollte Anno mit der Serie auch etwas Neues schaffen und den Anime weiterentwickeln.<sup id="cite_ref-EyesofAnno_11-1" class="reference"><a href="#cite_note-EyesofAnno-11" title="">[12]</a></sup> Laut Regisseur Kazuya Tsurumaki bildet die 16. Folge die Grenze zwischen den beiden Teilen von NGE – der erste, actionreiche Teil der Episode gehöre zum ersten Teil der Serie, der zweite Teil mit Shinjis Selbstgesprächen im Engel sei dem zweiten Teil der Serie zuzuordnen. In der zweiten Hälfte der Produktion nahm auch die Anspannung im Team zu, da man die ursprüngliche Planung ignorierte und dadurch auch Zeit und Geld knapper wurden. So zeigt die weitere Entwicklung der Serie auch den Zustand des Produktionsteams. Einige der Mitarbeiter wollten auch aufhören, da es ihnen nicht möglich schien, den Anime in ausreichender Qualität fertig zu stellen.<sup id="cite_ref-Tsurumaki_12-1" class="reference"><a href="#cite_note-Tsurumaki-12" title="">[13]</a></sup></p>
+<p>Hideaki Anno wollte mit der Serie auch das Genre des Mechas und den Anime an sich neu beleben und in eine neue Richtung führen. Seiner Meinung nach wurden die zehn Jahre zuvor im Bereich der Science-Fiction immer wieder die selben Geschichten erzählt.<sup id="cite_ref-Wong_2-1" class="reference"><a href="#cite_note-Wong-2" title="">[3]</a></sup></p>
+<p>Der Charakter Shinjis stellt Annos Aussage nach sein eigenes Ich dar. Jedoch ist dies vor allem symbolisch zu sehen, nicht zu genau.<sup id="cite_ref-Wong_2-2" class="reference"><a href="#cite_note-Wong-2" title="">[3]</a></sup> Hideaki Anno hat, besonders im zweiten Teil, viel von sich selbst eingebracht. Jedoch sagt er auch, dass ihm gerade diese Stellen nicht gefallen.<sup id="cite_ref-Annotokids_5-1" class="reference"><a href="#cite_note-Annotokids-5" title="">[6]</a></sup></p>
+<p><a name="Konzeption_und_Stil" id="Konzeption_und_Stil"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=15" title="Abschnitt bearbeiten: Konzeption und Stil">Bearbeiten</a>]</span> <span class="mw-headline">Konzeption und Stil</span></h2>
+<blockquote>
+<p class="Zitat">„Evangelion ist wie ein Puzzle. Jeder kann es sich anschauen und seine eigenen Antworten suchen. Mit anderen Worten, wir erlauben den Zuschauern, selbst zu denken, so dass jeder seine ganz eigene Welt kreieren kann. Wir werden niemals selbst alle Antworten geben, nicht einmal in den Kinofilmen. Viele Evangelion-Fans hoffen darauf, daß wir ihnen eine Art „Alles über EVA“-Nachschlagewerk in die Hand drücken – aber ein solches gibt es nicht. Erwartet nicht, dass andere euch die Antworten auf eure Fragen geben, dass euch alles vorgesetzt wird. Wir alle müssen unsere eigenen Antworten finden.“</p>
+<p class="cite"><cite>– <span class="Person">Hideaki Anno<sup id="cite_ref-zitat_7-1" class="reference"><a href="#cite_note-zitat-7" title="">[8]</a></sup></span></cite></p>
+</blockquote>
+<p><a name="Stil" id="Stil"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=16" title="Abschnitt bearbeiten: Stil">Bearbeiten</a>]</span> <span class="mw-headline">Stil</span></h3>
+<p>Rein äußerlich ist die Serie stark beeinflusst von den <a href="/wiki/Mecha" title="Mecha" class="mw-redirect">Mecha</a>-Anime der 70er-Jahre, von denen Anno ein leidenschaftlicher Liebhaber war und ist. In der zweiten Hälfte der Serie wird zunehmend mit Einblendungen von weißem Text vor schwarzem Hintergrund gearbeitet. Dieser Text kommuniziert dabei auch mit den Charakteren, insbesondere Shinji. Besonders häufig wird diese Technik in den letzten beiden Folgen verwendet. Sie lässt sich auf <a href="/wiki/Jean-Luc_Godard" title="Jean-Luc Godard">Jean-Luc Godard</a> zurückführen, der diese Technik ebenfalls verwendete.<sup id="cite_ref-Azuma_0-4" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup> Im Gegensatz zu den Anime-Filmen <a href="/wiki/Akira_(Manga)" title="Akira (Manga)">Akira</a> und <a href="/wiki/Ghost_in_the_Shell" title="Ghost in the Shell">Ghost in the Shell</a>, die ebenfalls zu dieser Zeit herauskamen und den Anime weiterentwickelten, werden in NGE nicht die Bilder detaillierter, um mehr Informationen zu vermitteln. Stattdessen werden schnelle Schnitte verwendet. Jedoch werden in anderen Szenen lange Standbilder verwendet oder nur wenige langsame Bewegungen in eine Richtung gezeigt.<sup id="cite_ref-nettime_8-2" class="reference"><a href="#cite_note-nettime-8" title="">[9]</a></sup></p>
+<p><a name="Anmerkungen_zum_Titel" id="Anmerkungen_zum_Titel"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=17" title="Abschnitt bearbeiten: Anmerkungen zum Titel">Bearbeiten</a>]</span> <span class="mw-headline">Anmerkungen zum Titel</span></h3>
+<p>Der japanische Titel, <i>Shin Seiki Evangelion</i>, besteht aus einem japanischen und einem griechischen Teil. <i>„Shin Seiki“</i> (新世紀) bedeutet <i>Neue Ära</i> oder <i>Neues Jahrhundert</i>. Das <a href="/wiki/Altgriechisch" title="Altgriechisch" class="mw-redirect">altgriechische</a> <i>„Evangelion“</i> (εὐαγγέλιον) heißt <i>gute/frohe Nachricht</i>. Die Benennung der internationalen Version als <i>Neon Genesis Evangelion</i> (νέον γένεσις εὐαγγέλιον) wurde von GAINAX selbst getroffen. Der Titel entspricht nicht gänzlich der altgriechischen Grammatik. <i>Neon</i> heißt <i>neu</i>, <i>Genesis</i> <i>Ursprung/Quelle</i> oder <i>Geburt/Herkunft</i>. Es bezeichnet auch das erste Buch der <a href="/wiki/Bibel" title="Bibel">Bibel</a> und <a href="/wiki/Tora" title="Tora">Tora</a>, in dem die Erschaffung der Welt geschildert wird. Euangelion (latinisiert Evangelium) setzt sich aus eu (ευ), <i>gut</i>, und angelos (άγγελος), <i>Botschafter</i>, zusammen.</p>
+<p>Als Titel war zunächst <i>Alcion</i> (jap. <i>Arushion</i>) vorgesehen, Yoshiyuki Sadamoto setzte aber <i>Evangelion</i> durch.<sup id="cite_ref-SadaMond_9-1" class="reference"><a href="#cite_note-SadaMond-9" title="">[10]</a></sup></p>
+<p><a name="Einfl.C3.BCsse" id="Einfl.C3.BCsse"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=18" title="Abschnitt bearbeiten: Einflüsse">Bearbeiten</a>]</span> <span class="mw-headline">Einflüsse</span></h3>
+<p>Neben der <a href="/wiki/Psychoanalyse" title="Psychoanalyse">Psychoanalyse</a> haben verschiedene Religionen die Arbeit an Neon Genesis Evangelion beeinflusst. <a href="/wiki/Religion" title="Religion">Religiöse</a> Anspielungen, vor allem Begriffe aus dem für Japaner eher exotischen <a href="/wiki/Judentum" title="Judentum">Judentum</a> und <a href="/wiki/Christentum" title="Christentum">Christentum</a> spielen eine zentrale Rolle. Diese sollten aber vor allem dazu dienen, die Serie exotischer und so interessanter zu machen.<sup id="cite_ref-Kazuya_4-1" class="reference"><a href="#cite_note-Kazuya-4" title="">[5]</a></sup>. So beruft sich die Organisation SEELE auf die Schriftrollen von <a href="/wiki/Qumran" title="Qumran" class="mw-redirect">Qumran</a>. Auch andere Religionen finden Verwendung, so besteht die Scheinfirma <i>Marduk Institut</i> aus 108 Zweigstellen, der Zahl der <a href="/wiki/Buddhismus" title="Buddhismus">buddhistischen Verfehlungen</a>. <a href="/wiki/Marduk" title="Marduk">Marduk</a> selbst war die Hauptgottheit der <a href="/wiki/Babylon" title="Babylon">babylonischen</a> Religion. Die Gestalt der Evangelion-Einheiten sei auch einer Gestalt der japanischen Mythologie, dem <a href="/wiki/Oni" title="Oni">Oni</a> nachempfunden, der auch Hörner auf dem Kopf trägt.<sup id="cite_ref-Wong_2-3" class="reference"><a href="#cite_note-Wong-2" title="">[3]</a></sup></p>
+<p>Des Weiteren wird auf aktuelle und historische Ereignisse Bezug genommen. Der Begriff Second Impact bezieht sich auf den First Impact als den Meteoriteneinschlag, der zum Aussterben der <a href="/wiki/Dinosaurier" title="Dinosaurier">Dinosaurier</a> führte. Zudem führt dieser Einschlag zum Abschmelzen der Südpolkappe und einer Erwärmung der Nordhalbkugel, was dem <a href="/wiki/Treibhauseffekt" title="Treibhauseffekt">Treibhauseffekt</a> ähnelt.</p>
+<p>Es gibt auch verschiedene Hommagen an Science-Fiction-Klassiker, wie zum Beispiel den Titel der letzten Folge, <i>„The Beast That Shouted ‚I‘ at the Heart of the World“</i>. Das in <a href="/wiki/Katakana" title="Katakana">Katakana</a> geschriebene <i>I</i> wird es oft als englisches „I“ gelesen. Gelesen als „ai“, japanisch für „Liebe“, ist es eine Hommage an <i>„The Beast that Shouted Love at the Heart of the World“</i> (1969) von <a href="/wiki/Harlan_Ellison" title="Harlan Ellison">Harlan Ellison</a>. Die Uniform von Gendo Ikari ist eine Anspielung an <a href="/wiki/Space_Battleship_Yamato" title="Space Battleship Yamato" class="mw-redirect">Space Battleship Yamato</a>, eine Animeserie von 1974.<sup id="cite_ref-nettime_8-3" class="reference"><a href="#cite_note-nettime-8" title="">[9]</a></sup> Der in der Serie zentrale Begriff <i>Human Instrumentality Project</i> geht auf die Reihe <i>Instrumentality of Man</i> von Cordwainer Smith zurück.<sup id="cite_ref-Horn_13-0" class="reference"><a href="#cite_note-Horn-13" title="">[14]</a></sup> Zudem waren Anno und Sadamoto stark beeinflusst vom Mangaka <a href="/wiki/Go_Nagai" title="Go Nagai" class="mw-redirect">Go Nagai</a> und dessen Serie <i><a href="/wiki/Devilman" title="Devilman">Devilman</a></i> sowie <i><a href="/w/index.php?title=Space_Runaway_Ideon&amp;action=edit&amp;redlink=1" class="new" title="Space Runaway Ideon (Seite nicht vorhanden)">Space Runaway Ideon</a></i>, aus dem unter anderem das Konzept für NERV und die von Kindern gesteuerten Roboter herrührt. Die Figur Gendo Ikaris und seines Untergebenen Fuyutsuki basieren auf Commander Ed Staker und Col. Alec Freeman aus der Fernsehserie <i>UFO</i>.<sup id="cite_ref-SadaMond_9-2" class="reference"><a href="#cite_note-SadaMond-9" title="">[10]</a></sup></p>
+<p><a name="Erster_Teil" id="Erster_Teil"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=19" title="Abschnitt bearbeiten: Erster Teil">Bearbeiten</a>]</span> <span class="mw-headline">Erster Teil</span></h3>
+<p>Da es während der Produktion zu einer Änderung der geplanten Handlung kommt, lässt sich die Serie in zwei Teilen betrachten. Die Erzählgeschwindigkeit der ersten sieben Folgen ist recht hoch, aber gleichbleibend. Während diesen werden die Charaktere von Shinji und Rei sowie auch philosophische Aspekte betrachtet, wie das <a href="/w/index.php?title=Stachelschweindilemma&amp;action=edit&amp;redlink=1" class="new" title="Stachelschweindilemma (Seite nicht vorhanden)">Stachelschweindilemma</a> in Folge 4, die auch diesen Namen trägt. Darauf folgen einige Episoden mit mehr Humor und Action.</p>
+<p>Der erste Teil beinhaltet viele humoristische und actionbetonte Szenen, beschäftigt sich aber auch bereits mit den Problemen der vier Charaktere Shinji, Asuka, Rei und Misato, die aufgrund von psychischen <a href="/wiki/Trauma_(Psychologie)" title="Trauma (Psychologie)">Traumata</a> nur schwer Kontakt mit ihrer Außenwelt knüpfen können. Die Folgen vermitteln dennoch eine Botschaft der Erlösung, es wird von der langsamen Öffnung der Figuren zu ihrer Umgebung und somit eine Lösung der Probleme vermittelt. Zudem ist der erste Teil der Serie sehr an vorherigen Produktionen orientiert und zitiert viele Anime- und Science-Fiction-Serien. Dabei beinhaltet er damals typische Elemente des Animes, wie viele schöne Mädchen und hochtechnisierte Maschinen, konzentriert diese aber zusätzlich noch und übersteigert sie.<sup id="cite_ref-Azuma_0-5" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup></p>
+<p><a name="Zweiter_Teil" id="Zweiter_Teil"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=20" title="Abschnitt bearbeiten: Zweiter Teil">Bearbeiten</a>]</span> <span class="mw-headline">Zweiter Teil</span></h3>
+<p>Ab der 16. Folge, <i>Zwischen Leben und Tod</i>, in der Shinji im Engel gefangen ist, ändert Anno die Entwicklung der Handlung. Die folgenden Episoden werden gewalttätiger als die vorherigen, der Humor und besonders die Hoffnung auf Erlösung verschwinden. Die Serie wendet sich von den typischen Elementen des Animes ab und kritisiert zunehmend die Lebensweise insbesondere der Fans. Dabei werden die Erzählformen und Stilmittel der vorherigen Produktionen nicht verworfen, sondern konzentriert und bis an ihre Grenzen getrieben. Dabei sollte die Identifikation des Publikums mit dem Hauptcharakter unterbunden werden, um so die Fans anzugreifen, die Werke nur dann schätzen können, wenn sie durch Identifikation ihre Gefühle auf die Charaktere projizieren können.</p>
+<p>Zudem wird im zweiten Teil die Handlung beschleunigt, so stirbt Rei in Folge 23, <i>Rei III – Tränen</i>, innerhalb von nur zwei Minuten. Auch wird nun die Reihenfolge der Ereignisse weniger chronologisch, wenn Rätsel auftauchen, die in der ersten Hälfte bereits gelöst wurden. Zugleich werden viele Ereignisse, wie der Wurf des Longinusspeeres und dessen Wirkung, überhaupt nicht mehr erklärt. Zum Verständnis dieser ist Wissen nötig, das die Serie nicht vermittelt.<sup id="cite_ref-Azuma_0-6" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup></p>
+<p><a name="Die_letzten_zwei_Folgen" id="Die_letzten_zwei_Folgen"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=21" title="Abschnitt bearbeiten: Die letzten zwei Folgen">Bearbeiten</a>]</span> <span class="mw-headline">Die letzten zwei Folgen</span></h3>
+<p>Die letzten beiden Folgen fallen aus der Erscheinung der Serie heraus. Die japanischen Kritiker Eiji Otsuka und Tetsuya Miyazaki beschreiben diese wie eine Gehirnwäsche oder Psychotherapie. Die Folgen können sinnbildlich für die Weltflucht stehen, die oft von <a href="/wiki/Otaku" title="Otaku">Otakus</a> vollzogen wird, zurückgezogenen Animefans oder überhaupt Menschen, die sich von ihrer Umwelt entfremden. Es ist jedoch nicht sicher, ob Anno diese Abgeschiedenheit kritisieren oder unterstützen wollte.<sup id="cite_ref-essay_14-0" class="reference"><a href="#cite_note-essay-14" title="">[15]</a></sup> Eine fortschreitende Handlung fällt dabei völlig weg.<sup id="cite_ref-Azuma_0-7" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup></p>
+<p>Die Folgen bestehen gänzlich aus Traumszenen, in denen Shinji oder andere Charaktere mit sich selbst sprechen oder mit anderen. Dies geschieht häufig vor schwarzem Hintergrund oder auch mit Standbildern früherer Episoden. Ähnlich waren schon kurze Traumszenen in vorherigen Folgen gestaltet. Häufig sitzt einer der Charaktere auf einem Klappstuhl, sieht sich einem jüngeren Ich konfrontiert oder vergangenen Begebenheiten. Die Auseinandersetzungen Shinjis, die in der letzten Folge eine tragende Rolle spielen, finden teilweise in einem leeren Theaterraum statt, der im Vorspann des Films <i>Death and Rebirth</i> wieder zu sehen ist. Die Animationen sind im Gegensatz zum Rest der Serie einfach, oft sind nur Standbilder eingeblendet. Einige Szenen sind auch nur in Skizzen dargestellt oder nur grob koloriert. Auffällig ist auch die häufige Einblendung von weißem Text auf schwarzem Grund, der mit den Charakteren kommuniziert.</p>
+<p><a name="Ver.C3.B6ffentlichung" id="Ver.C3.B6ffentlichung"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=22" title="Abschnitt bearbeiten: Veröffentlichung">Bearbeiten</a>]</span> <span class="mw-headline">Veröffentlichung</span></h2>
+<p>Die 26-teilige Serie wurde in Japan von Oktober 1995 bis März 1996 auf <a href="/wiki/TV_Tokyo" title="TV Tokyo">TV Tokyo</a> ausgestrahlt. Später folgten Ausstrahlungen auf den Sendern <a href="/wiki/Animax" title="Animax">Animax</a> und <a href="/wiki/WOWOW" title="WOWOW">WOWOW</a>.</p>
+<p>Der Anime wurde auf Englisch durch <a href="/wiki/ADV_Films" title="ADV Films">ADV Films</a> in den <a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">USA</a> und durch Madman Entertainment in <a href="/wiki/Australien" title="Australien">Australien</a> vertrieben. Die Ausstrahlung auf Englisch erfolgte unter anderem auf den Sendern <a href="/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a>, <a href="/w/index.php?title=Sci-Fi_Channel&amp;action=edit&amp;redlink=1" class="new" title="Sci-Fi Channel (Seite nicht vorhanden)">Sci-Fi Channel</a> und <a href="/w/index.php?title=Special_Broadcasting_Service_Australia&amp;action=edit&amp;redlink=1" class="new" title="Special Broadcasting Service Australia (Seite nicht vorhanden)">Special Broadcasting Service Australia</a>. Eine französische Übersetzung wurde von <a href="/w/index.php?title=Dybex&amp;action=edit&amp;redlink=1" class="new" title="Dybex (Seite nicht vorhanden)">Dybex</a> vertrieben und von den Sendern <a href="/w/index.php?title=Canal_%2B&amp;action=edit&amp;redlink=1" class="new" title="Canal + (Seite nicht vorhanden)">Canal +</a> und <a href="/wiki/Mangas" title="Mangas" class="mw-redirect">Mangas</a> ausgestrahlt. Die spanische Übersetzung wurde in <a href="/wiki/Spanien" title="Spanien">Spanien</a> sowie Lateinamerika im Fernsehen gesendet. <a href="/wiki/MTV" title="MTV">MTV</a> Italia brachte den Anime auf Italienisch. Des Weiteren wurde die Serie auf Russisch, Tagalog, Polnisch, Portugiesisch, Schwedisch, Arabisch und Koreanisch übersetzt.</p>
+<p>In <a href="/wiki/Deutschland" title="Deutschland">Deutschland</a> lief NGE das erste mal 1998 im Nachtprogramm von <a href="/wiki/VOX" title="VOX">VOX</a>, Ende 2000 bis Anfang 2001 wurde die Serie wiederholt. Beide Ausstrahlungen geschahen auf <a href="/wiki/Japanische_Sprache" title="Japanische Sprache">japanisch</a> mit deutschen Untertiteln. 1999 erschien die Serie bei ACOG vollständig, ungekürzt und digital restauriert auf drei DVDs in einer auf 2999 Stück limitierten Sammlerbox. Von 2005 bis 2006 wurde die Serie von <a href="/wiki/ADV_Films" title="ADV Films">ADV Films</a> auf sieben DVDs als <i>Platinum Edition</i> neu herausgebracht mit deutscher Tonspur und zuschaltbaren Untertiteln. Ab dem 10. Juni 2008 soll die Serie in der deutsch synchronisierten Version durch den Sender <a href="/wiki/Animax" title="Animax">Animax</a> ausgestrahlt werden.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15" title="">[16]</a></sup></p>
+<p><a name="Synchronisation" id="Synchronisation"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=23" title="Abschnitt bearbeiten: Synchronisation">Bearbeiten</a>]</span> <span class="mw-headline">Synchronisation</span></h3>
+<p>Die deutsche Synchronisation wurde 2005 von <a href="/w/index.php?title=Deutsche_Synchron_Filmgesellschaft_mbH&amp;action=edit&amp;redlink=1" class="new" title="Deutsche Synchron Filmgesellschaft mbH (Seite nicht vorhanden)">Deutsche Synchron Filmgesellschaft mbH</a> ausgeführt und orientiert sich an der englischen Übersetzung und nicht am japanischen Original. Aus diesem Grund sind leichte Abweichungen von den vorangehenden Versionen möglich.</p>
+<table class="prettytable sortable" id="Synchronisation">
+<tr>
+<th>Rolle</th>
+<th>Deutsche Stimme</th>
+<th>Japanische Stimme (<a href="/wiki/Seiy%C5%AB" title="Seiyū">Seiyū</a>)</th>
+</tr>
+<tr>
+<td>Shinji Ikari</td>
+<td><a href="/w/index.php?title=Hannes_Maurer&amp;action=edit&amp;redlink=1" class="new" title="Hannes Maurer (Seite nicht vorhanden)">Hannes Maurer</a></td>
+<td><a href="/wiki/Megumi_Ogata" title="Megumi Ogata">Megumi Ogata</a></td>
+</tr>
+<tr>
+<td>Asuka Langley Sōryū</td>
+<td><a href="/w/index.php?title=Julia_Ziffer&amp;action=edit&amp;redlink=1" class="new" title="Julia Ziffer (Seite nicht vorhanden)">Julia Ziffer</a></td>
+<td><a href="/w/index.php?title=Yuko_Miyamura&amp;action=edit&amp;redlink=1" class="new" title="Yuko Miyamura (Seite nicht vorhanden)">Yuko Miyamura</a></td>
+</tr>
+<tr>
+<td>Rei Ayanami</td>
+<td><a href="/wiki/Marie_Bierstedt" title="Marie Bierstedt">Marie Bierstedt</a></td>
+<td><a href="/wiki/Megumi_Hayashibara" title="Megumi Hayashibara">Megumi Hayashibara</a></td>
+</tr>
+<tr>
+<td>Misato Katsuragi</td>
+<td><a href="/wiki/Julia_Kaufmann" title="Julia Kaufmann">Julia Kaufmann</a></td>
+<td><a href="/w/index.php?title=Kotono_Mitsuishi&amp;action=edit&amp;redlink=1" class="new" title="Kotono Mitsuishi (Seite nicht vorhanden)">Kotono Mitsuishi</a></td>
+</tr>
+<tr>
+<td>Gendō Ikari</td>
+<td><a href="/w/index.php?title=Erich_R%C3%A4uker&amp;action=edit&amp;redlink=1" class="new" title="Erich Räuker (Seite nicht vorhanden)">Erich Räuker</a></td>
+<td><a href="/w/index.php?title=Fumihiko_Tachiki&amp;action=edit&amp;redlink=1" class="new" title="Fumihiko Tachiki (Seite nicht vorhanden)">Fumihiko Tachiki</a></td>
+</tr>
+<tr>
+<td>Kensuke Aida</td>
+<td><a href="/wiki/Gerrit_Schmidt-Fo%C3%9F" title="Gerrit Schmidt-Foß">Gerrit Schmidt-Foß</a></td>
+<td><a href="/w/index.php?title=Tetsuya_Iwanaga&amp;action=edit&amp;redlink=1" class="new" title="Tetsuya Iwanaga (Seite nicht vorhanden)">Tetsuya Iwanaga</a></td>
+</tr>
+<tr>
+<td>Tōji Suzuhara</td>
+<td><a href="/wiki/Julien_Haggege" title="Julien Haggege" class="mw-redirect">Julien Haggege</a></td>
+<td><a href="/wiki/Tomokazu_Seki" title="Tomokazu Seki">Tomokazu Seki</a></td>
+</tr>
+<tr>
+<td>Ritsuko Akagi</td>
+<td><a href="/wiki/Peggy_Sander" title="Peggy Sander">Peggy Sander</a></td>
+<td><a href="/w/index.php?title=Yuriko_Yamaguchi&amp;action=edit&amp;redlink=1" class="new" title="Yuriko Yamaguchi (Seite nicht vorhanden)">Yuriko Yamaguchi</a></td>
+</tr>
+<tr>
+<td>Kōzō Fuyutsuki</td>
+<td><a href="/wiki/Hans-Werner_Bussinger" title="Hans-Werner Bussinger">Hans-Werner Bussinger</a></td>
+<td><a href="/w/index.php?title=Motomu_Kiyokawa&amp;action=edit&amp;redlink=1" class="new" title="Motomu Kiyokawa (Seite nicht vorhanden)">Motomu Kiyokawa</a></td>
+</tr>
+<tr>
+<td>Lorenz Kiel</td>
+<td><a href="/w/index.php?title=Horst_Lampe&amp;action=edit&amp;redlink=1" class="new" title="Horst Lampe (Seite nicht vorhanden)">Horst Lampe</a></td>
+<td><a href="/w/index.php?title=Mugihito&amp;action=edit&amp;redlink=1" class="new" title="Mugihito (Seite nicht vorhanden)">Mugihito</a></td>
+</tr>
+<tr>
+<td>Kaji Ryōji</td>
+<td><a href="/wiki/Marcel_Coll%C3%A9" title="Marcel Collé">Marcel Collé</a></td>
+<td><a href="/w/index.php?title=K%C5%8Dichi_Yamadera&amp;action=edit&amp;redlink=1" class="new" title="Kōichi Yamadera (Seite nicht vorhanden)">Kōichi Yamadera</a></td>
+</tr>
+</table>
+<p><a name="Musik" id="Musik"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=24" title="Abschnitt bearbeiten: Musik">Bearbeiten</a>]</span> <span class="mw-headline">Musik</span></h3>
+<p>Die Musik hat meist klassischen Charakter, was auch darauf zurückzuführen ist, dass Hideaki Anno selbst Liebhaber <a href="/wiki/Wiener_Klassik" title="Wiener Klassik">klassischer Musik</a> ist.<sup id="cite_ref-Kazuya_4-2" class="reference"><a href="#cite_note-Kazuya-4" title="">[5]</a></sup></p>
+<p>Der <a href="/wiki/Vorspann" title="Vorspann">Vorspanntitel</a> <i>Zankoku na Tenshi no These</i> wurde gesungen von <a href="/w/index.php?title=Y%C5%8Dko_Takahashi&amp;action=edit&amp;redlink=1" class="new" title="Yōko Takahashi (Seite nicht vorhanden)">Yōko Takahashi</a>. Der <a href="/wiki/Abspann" title="Abspann">Abspann</a> wurde unterlegt mit dem Titel <i><a href="/wiki/Fly_Me_to_the_Moon" title="Fly Me to the Moon">Fly Me to the Moon</a></i>. In der Fernsehfassung wurden 14 verschiedene Versionen, von <a href="/wiki/Swing_(Musikrichtung)" title="Swing (Musikrichtung)">Swing</a> bis <a href="/wiki/Techno" title="Techno">Techno</a> verwendet, die von Claire Littley, <a href="/wiki/Megumi_Hayashibara" title="Megumi Hayashibara">Megumi Hayashibara</a>, Yōko Takahashi, Aya oder Aki gesungen wurden oder rein instrumental sind. Die DVD-Fassung verwendete zusätzlich noch Interpretationen von Kotono Mitsuishi und Yuko Miyamura. Der Text des Liedes stammt von Bart Howard.</p>
+<p><a name="Kinofilme" id="Kinofilme"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=25" title="Abschnitt bearbeiten: Kinofilme">Bearbeiten</a>]</span> <span class="mw-headline">Kinofilme</span></h2>
+<p>Auf Grund zahlreicher Proteste von Fans erschuf Hideaki Anno zwei Filme mit einem alternativen Ende:</p>
+<ul>
+<li><i><a href="/wiki/Neon_Genesis_Evangelion:_Death_%26_Rebirth" title="Neon Genesis Evangelion: Death &amp; Rebirth">Neon Genesis Evangelion: Death &amp; Rebirth</a></i></li>
+<li><i><a href="/wiki/Neon_Genesis_Evangelion:_The_End_of_Evangelion" title="Neon Genesis Evangelion: The End of Evangelion">Neon Genesis Evangelion: The End of Evangelion</a></i></li>
+</ul>
+<p>Neben diesen beiden existiert noch der Film „Revival of Evangelion“, bei dem es sich um eine Kombinierung der beiden vorherigen Filme handelt. Es handelt sich um eine neu geschnittene Fassung von „Death“, umbenannt in „Death (true)²“, bei dem ein paar der neuen Szenen wieder entfernt wurden, und das unbearbeitete „End of Evangelion“. Der Film erschien 1998 und wird als finale Version der Kinofilme gesehen.</p>
+<p><a name="Rebuild_of_Evangelion" id="Rebuild_of_Evangelion"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=26" title="Abschnitt bearbeiten: Rebuild of Evangelion">Bearbeiten</a>]</span> <span class="mw-headline">Rebuild of Evangelion</span></h3>
+<p>Für das Jahr 2007 und 2008 wurden neue Filme produziert. Bei „Rebuild of Evangelion“ handelt es sich um vier Filme. Hideaki Anno will sich nicht zu eng an die bereits etablierte Serie halten, sondern sie zum Teil neu interpretieren und aktualisieren. Es werden auch neue Charaktere eingeführt. Laut Anno ist <i>„Evangelion alt, aber seitdem gab es keinen neueren Anime.“</i> Er will Evangelion einem neuen Publikum nahe bringen und eine neue Sicht auf die Welt hervorrufen.</p>
+<p>Die Drehbücher schrieb Hideaki Anno selbst, <a href="/wiki/Kazuya_Tsurumaki" title="Kazuya Tsurumaki">Kazuya Tsurumaki</a> und Yuki Masa führen Regie. Es soll vermehrt von Computergrafik Gebrauch gemacht werden, die es 1995 so noch nicht gab.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16" title="">[17]</a></sup></p>
+<p>Ab 1. September 2007 war der erste Film, <i><a href="/wiki/Evangelion_Shin_Gekij%C5%8Dban:_Jo" title="Evangelion Shin Gekijōban: Jo">Evangelion Shin Gekijōban: Jo</a></i>, in den japanischen Kinos zu sehen. Im Jahr 2008 soll <i>Evangelion Shin Gekijōban: Ha</i> folgen. <sup id="cite_ref-17" class="reference"><a href="#cite_note-17" title="">[18]</a></sup></p>
+<p><a name="Adaptionen" id="Adaptionen"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=27" title="Abschnitt bearbeiten: Adaptionen">Bearbeiten</a>]</span> <span class="mw-headline">Adaptionen</span></h2>
+<p><a name="Manga" id="Manga"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=28" title="Abschnitt bearbeiten: Manga">Bearbeiten</a>]</span> <span class="mw-headline">Manga</span></h3>
+<p>Zur Fernsehserie <i>Neon Genesis Evangelion</i> erschien ein <a href="/wiki/Manga" title="Manga">Manga</a> von Sadamoto Yoshiyuki, der die Handlung neu interpretiert. In Deutschland erschien der Manga unter dem Titel <i><a href="/wiki/Neon_Genesis_Evangelion_(Manga)" title="Neon Genesis Evangelion (Manga)">Neon Genesis Evangelion</a></i>.</p>
+<p>Des Weiteren erschien eine sechsbändige Spin-Off-Reihe unter dem Titel <i><a href="/wiki/Neon_Genesis_Evangelion_-_Iron_Maiden" title="Neon Genesis Evangelion - Iron Maiden" class="mw-redirect">Neon Genesis Evangelion - Iron Maiden</a></i>, die auf dem gleichnamigen Computerspiel basiert.</p>
+<p>Basierend auf dem Spiel <i>Shinji Ikari Raising Project</i> erschien unter dem Titel <i>Shinji Ikari Raising Project</i> ein Manga in Japan.</p>
+<p><a name="Realfilm" id="Realfilm"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=29" title="Abschnitt bearbeiten: Realfilm">Bearbeiten</a>]</span> <span class="mw-headline">Realfilm</span></h3>
+<p>Der Stoff der Serie wird für einen Realfilm aufbereitet. Dafür zuständig sind <a href="/wiki/GAINAX" title="GAINAX">GAINAX</a>, ADV Films, eine amerikanische Animevertriebsfirma und die neuseeländische Firma <a href="/wiki/Weta_Workshop" title="Weta Workshop">Weta Workshop</a>, die unter anderem für die Effekte in der Verfilmung von <i><a href="/wiki/Der_Herr_der_Ringe" title="Der Herr der Ringe">Der Herr der Ringe</a></i> zuständig war. Angekündigt ist der Film für 2009.</p>
+<p><a name="B.C3.BCcher" id="B.C3.BCcher"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=30" title="Abschnitt bearbeiten: Bücher">Bearbeiten</a>]</span> <span class="mw-headline">Bücher</span></h3>
+<p>Zu Neon Genesis Evangelion wurden in geringer Auflage zwei Hefte zu den ersten beiden Filmen veröffentlicht. Diese enthalten Hintergrundinformationen, die in den Filmen nicht gegeben werden. Das zweite, das zu Aufführungen von <i>The End of Evangelion</i> verkauft wurde, ist wegen seines Titelbildes auch als <i>Red Cross Book</i> bekannt.</p>
+<p>Des Weiteren wurden zwei <a href="/wiki/Artbook" title="Artbook">Artbooks</a> herausgegeben mit den Titeln <i>Der Mond</i> und <i>Die Sterne</i>. Diese haben auch im japanischen den deutschen Titel.</p>
+<p><a name="Musikver.C3.B6ffentlichungen" id="Musikver.C3.B6ffentlichungen"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=31" title="Abschnitt bearbeiten: Musikveröffentlichungen">Bearbeiten</a>]</span> <span class="mw-headline">Musikveröffentlichungen</span></h3>
+<p>Der <a href="/wiki/Vorspann" title="Vorspann">Vorspanntitel</a> <i>Zankoku na Tenshi no These</i> (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">残酷な天使のテーゼ</span>) von <a href="/w/index.php?title=Y%C5%8Dko_Takahashi&amp;action=edit&amp;redlink=1" class="new" title="Yōko Takahashi (Seite nicht vorhanden)">Yōko Takahashi</a> und der <a href="/wiki/Abspann" title="Abspann">Abspanntitel</a> <i><a href="/wiki/Fly_Me_to_the_Moon" title="Fly Me to the Moon">Fly Me to the Moon</a></i> sowie <i>Tamashii no Refrain</i> (<span lang="ja-Jpan" class="lang" xml:lang="ja-Jpan">魂のルフラン</span>) von Yōko Takahashi und <i>Thanatos-If I can't be yours-</i> von <a href="/w/index.php?title=LOREN_%26_MASH&amp;action=edit&amp;redlink=1" class="new" title="LOREN &amp; MASH (Seite nicht vorhanden)">LOREN &amp; MASH</a> aus den beiden Filmen sind als <a href="/wiki/Single_(Musik)" title="Single (Musik)">Singles</a> auf den Markt gekommen. Des Weiteren erschienen 15 Alben mit Hintergrundmusik und fünf <a href="/wiki/DVD" title="DVD">DVDs</a>.</p>
+<p><a name="Videospiele" id="Videospiele"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=32" title="Abschnitt bearbeiten: Videospiele">Bearbeiten</a>]</span> <span class="mw-headline">Videospiele</span></h3>
+<p>Zu Neon Genesis Evangelion erschienen 22 Spiele für Konsole und PC. 1996 bis 1998 veröffentlichte <a href="/wiki/Sega_Saturn" title="Sega Saturn">Sega Saturn</a> die Spiele <i>Neon Genesis Evangelion: 1st Impression</i>, <i>Neon Genesis Evangelion: 2nd Impression</i>, <i>Neon Genesis Evangelion Digital Card Library</i> und <i><a href="/wiki/Shin_Seiki_Evangelion:_K%C5%8Dtetsu_no_Girlfriend#Shin_Seiki_Evangelion:_K.C5.8Dtetsu_no_Girlfriend" title="Shin Seiki Evangelion: Kōtetsu no Girlfriend">Kōtetsu no Girlfriend</a></i> (auch <i>Iron Maiden</i>). Nintendo brachte das Spiel <i>Neon Genesis Evangelion 64</i> heraus.</p>
+<p>Des Weiteren wurden veröffentlicht <i>Neon Genesis Evangelion: Typing Project-E</i>, <i>Neon Genesis Evangelion: Typing Hokan Keikaku</i>, <i>Neon Genesis Evangelion: Shito Ikusei</i>, drei Versionen von <i>Neon Genesis Evangelion - Eva and Good Friends</i>, <i>Neon Genesis Evangelion Mahjong Hokan Keikaku</i>, <i>Neon Genesis Evangelion 2</i>, <i><a href="/wiki/Shin_Seiki_Evangelion:_K%C5%8Dtetsu_no_Girlfriend_2nd" title="Shin Seiki Evangelion: Kōtetsu no Girlfriend 2nd" class="mw-redirect">Kōtetsu no Girlfriend 2nd</a></i>, <i>Secret of Evangelion</i>, <i>Daifugo</i> und <i>Detective Evangelion</i>. Für PC erschien auch eine Reihe aus <i>Ayanami Raising Project</i>, <i>Ayanami Raising Project with Asuka Complement Project</i> und <i>Shinji Ikari Raising Project</i>. Des Weiteren gibt es eine Reihe kleinerer Computerspiele unter dem Titel <i>Shinji and Good Friends</i>.</p>
+<p><a name="Rezeption_und_Auswirkungen" id="Rezeption_und_Auswirkungen"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=33" title="Abschnitt bearbeiten: Rezeption und Auswirkungen">Bearbeiten</a>]</span> <span class="mw-headline">Rezeption und Auswirkungen</span></h2>
+<p><a name="In_Japan" id="In_Japan"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=34" title="Abschnitt bearbeiten: In Japan">Bearbeiten</a>]</span> <span class="mw-headline">In Japan</span></h3>
+<p><a name="Erfolg" id="Erfolg"></a></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=35" title="Abschnitt bearbeiten: Erfolg">Bearbeiten</a>]</span> <span class="mw-headline">Erfolg</span></h4>
+<p>Der Serie kam in Japan von den Zuschauern große Aufmerksamkeit zu, mehr als der ebenfalls zu dieser Zeit laufenden Serie <a href="/wiki/Gundam_Wing" title="Gundam Wing">Gundam Wing</a> von <a href="/wiki/Bandai" title="Bandai">Bandai</a>. <a href="/wiki/Doujinshi" title="Doujinshi" class="mw-redirect">Doujinshis</a> zu NGE waren auf dem japanischen Markt die beliebtesten, als die Serie lief.<sup id="cite_ref-Horn_13-1" class="reference"><a href="#cite_note-Horn-13" title="">[14]</a></sup> Allein in Japan wurden mit den Verkäufen der Videos über 800 Millionen und mit Merchandisingartikeln über 400 Millionen Dollar Gewinn gemacht.<sup id="cite_ref-Wong_2-4" class="reference"><a href="#cite_note-Wong-2" title="">[3]</a></sup> Die letzte Folge der Serie wurde von über 10 Millionen Menschen gesehen.<sup id="cite_ref-rev_1-1" class="reference"><a href="#cite_note-rev-1" title="">[2]</a></sup> Charakterdesigner Yoshiyuki Sadamoto erklärt den Erfolg damit, dass NGE das war, nach dem die Menschen suchten.<sup id="cite_ref-SadaAnimerica_18-0" class="reference"><a href="#cite_note-SadaAnimerica-18" title="">[19]</a></sup> Laut Lawrence Eng lag dies auch an der gutdurchdachte Mischung von Genres, die dem Anime eine große Zielgruppe erschlossen.<sup id="cite_ref-rev_1-2" class="reference"><a href="#cite_note-rev-1" title="">[2]</a></sup></p>
+<p>Später wurde die Serie von einer Gruppe japanischer Kritiker, darunter Noburo Ishiguro, zu einer der vier Revolutionen des Animes gekürt. Dabei wurde bewertet nach Innovation, Einfluss auf das Medium und Erfolg der Serie.<sup id="cite_ref-rev_1-3" class="reference"><a href="#cite_note-rev-1" title="">[2]</a></sup> 2006 wurde die Serie in einer Umfrage zum zehnten <a href="/w/index.php?title=Japan_Media_Arts_Festival&amp;action=edit&amp;redlink=1" class="new" title="Japan Media Arts Festival (Seite nicht vorhanden)">Japan Media Arts Festival</a>, an der über 80.000 Fans teilnahmen, zum beliebtesten Anime gewählt.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19" title="">[20]</a></sup> Bei einer Umfrage von <a href="/wiki/TV_Asahi" title="TV Asahi">TV Asahi</a> im Jahr 2006 wurde die Serie zur zweitbeliebtesten Animeserie gewählt.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20" title="">[21]</a></sup></p>
+<p>Neben den weiteren Umsetzung in verschiedenen Medien wurde und wird in einige Restaurants in Japan für einige Zeit speziell zur Serie konzipiertes Essen angeboten. So gibt es im <i>Cure Maid Café</i> in Tokio LCL-Drinks und Sachiel-Pasta. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21" title="">[22]</a></sup></p>
+<p><a name="Interpretation_und_Bedeutung" id="Interpretation_und_Bedeutung"></a></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=36" title="Abschnitt bearbeiten: Interpretation und Bedeutung">Bearbeiten</a>]</span> <span class="mw-headline">Interpretation und Bedeutung</span></h4>
+<p>Hideaki Anno wurde nach dem Ende der Serie von Fans angegriffen. Ihm und dem Studio wurde vorgeworfen, die Serie verdorben zu haben, Anno verteidigte das Ende aber und bedauerte, dass die Arbeit des Studios von den Fans nicht anerkannt würde. Es gab zudem Vermutungen, er wäre nach dem Ende der Serie selbstmordgefährdet. In Folge dessen war Anno gestresst und lehnte weitere Diskussionen über das Ende ab. Zudem war er enttäuscht, da er die gewünschte Revolutionierung des Animes nicht eintreten sah.<sup id="cite_ref-EyesofAnno_11-2" class="reference"><a href="#cite_note-EyesofAnno-11" title="">[12]</a></sup></p>
+<p>Über die Serie wurden in Japan verschiedene Bücher veröffentlicht, die Hintergrundinformationen zur Serie geben, sich mit der Architektur, Technik in der Serie sowie Gestaltung der Serie und psychologischen Hintergründen beschäftigen. Es erschien des Weiteren eine Zahl von offiziellen und inoffiziellen <a href="/wiki/D%C5%8Djinshi" title="Dōjinshi">Dōjinshis</a> und Adaptionen anderer Künstler.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22" title="">[23]</a></sup></p>
+<p>Der japanische Kulturkritiker <a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a> beschreibt die Wirkung von NGE als Schock für Animefans wie auch andere Zuschauer. Die stellte sich umso mehr ein, da die Serie nur in begrenztem Umfang beworben wurde und nur eine gewöhnliche Animeserie des <a href="/wiki/Mecha" title="Mecha" class="mw-redirect">Mecha</a>-Genres erwartet wurde. Doch die Serie ging über die vorherigen hinaus und wurde mit ihrem Ende zu einem großen Ereignis.</p>
+<p>Nach Ausstrahlung der ersten Hälfte wurde die Serie bereits als beste seit <a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam" class="mw-redirect">Mobile Suit Gundam</a> bezeichnet. Hiroki Azuma führt dies zum einen auf eine hochqualitative und detailreiche Animation zurück und zum anderen darauf, dass die Serie die verschiedenen sozialen Probleme des damaligen Japan offen legt. Dabei hebt er besonders hervor die Gestalten der Engel als Materialisierungen von <i>Angst ohne Ursache</i>, sowie Rei als Verkörperung der Sterilität, Ungeschöntheit und Kälte der modernen Wissenschaft, insbesondere der Labore. Beides bringt er insbesondere mit den Vorfällen um die <a href="/wiki/%C5%8Cmu_Shinriky%C5%8D" title="Ōmu Shinrikyō">AUM-Sekte</a> in Zusammenhang, da auch hier die <i>Angst ohne Ursache</i> und Kälte der Wissenschaft eine Rolle spielten. Anno verwendet in der Serie neue erzählerische Techniken und produziert bleibende Bilder, wie es in Japan seit den frühen 80ern nicht mehr geschehen ist. Zudem würde er dem Anime neue Impulse geben, der laut Azuma seit den 80ern in einer inhaltlichen Unergiebigkeit steckt. Dies gelänge ihm durch die Konzentration dessen, was Animes der vorherigen zehn Jahre ausgemacht habe. Daher bezeichnet er bereits den ersten Teil der Serie als ein Ereignis. Die Qualität des Handlungsaufbaus spräche für eine hohe Geschicktheit Annos als Autoren.</p>
+<p>Nach Azuma beinhaltet die zweite Hälfte ein zweites Ereignis, das eine Wiederbelebung des Animes bedeute. Anno habe hier die im ersten Teil geschaffenen Standards bei weitem übertroffen, habe sich dabei jedoch in eine völlig andere Richtung gewandt. In der Serie würde Anno den Anime zugleich zu einem Ende bringen und ihn neu beleben.<sup id="cite_ref-Azuma_0-8" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup> Ein Charakter wie Rei Ayanami ist vor NGE noch in keinem Werk aufgetreten und stellt so eine völlige Neuschöpfung dar.<sup id="cite_ref-Azuma_0-9" class="reference"><a href="#cite_note-Azuma-0" title="">[1]</a></sup><sup id="cite_ref-nettime_8-4" class="reference"><a href="#cite_note-nettime-8" title="">[9]</a></sup></p>
+<p>Nach Azuma kam es mit NGE 1995 zu einer Spaltung der Anime-Industrie. Dabei orientiere sich die eine Richtung an der Realität, die andere produziere mehr fantastische Werke. Auch sei NGE in den zehn Jahren danach nie übertroffen worden.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23" title="">[24]</a></sup> Die Serie führte des Weiteren zum einem größeren Interesse des erwachsenen Publikums an Animes.<sup id="cite_ref-SadaAnimerica_18-1" class="reference"><a href="#cite_note-SadaAnimerica-18" title="">[19]</a></sup> Laut Lawrence Eng führte der Anime zu einem Anime-Boom in Japan zum einen, wie auch zum Erfolg späterer, anspruchsvoller und ebenso düsterer gehaltener Serien wie <i><a href="/wiki/Serial_Experiments_Lain" title="Serial Experiments Lain">Serial Experiments Lain</a></i> und <a href="/wiki/Cowboy_Bebop" title="Cowboy Bebop">Cowboy Bebop</a><i>.<sup id="cite_ref-rev_1-4" class="reference"><a href="#cite_note-rev-1" title="">[2]</a></sup></i></p>
+<p>Im Jahr 2003 kam es zu einem Mordfall in Japan, bei dem ein 22-jähriger seine Mutter erschlug. Er begründete dies damit, dass er durch die Serie <i>Neon Genesis Evangelion</i> überzeugt sei, dass „Das Ende der Evolution der Untergang“ sei und die Menschen unnütz und für die Zerstörung der Erde verantwortlich. Er wollte später weitere Menschen umbringen und wurde 2004 verurteilt.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24" title="">[25]</a></sup></p>
+<p><a name="International" id="International"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=37" title="Abschnitt bearbeiten: International">Bearbeiten</a>]</span> <span class="mw-headline">International</span></h3>
+<p>Die Serie war in Nordamerika sehr erfolgreich und ist bis heute in Fankreisen sehr bekannt.<sup id="cite_ref-Kazuya_4-3" class="reference"><a href="#cite_note-Kazuya-4" title="">[5]</a></sup> Laut Marvin Gleicher von Manga Entertainment hat die Serie die Tradition der Nacherzählung von vorherbestehenden Geschichten in der Animation gebrochen und so dem Medium neue Möglichkeiten eröffnet. Hideaki Anno hätte so besonders das Mecha-Genre neu belebt und das Bild einer psychologischen Paralyse gezeichnet. Viele Fans in Japan und in Amerika würden die Bedeutung des Werkes belegen.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25" title="">[26]</a></sup></p>
+<p><a name="In_Deutschland" id="In_Deutschland"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=38" title="Abschnitt bearbeiten: In Deutschland">Bearbeiten</a>]</span> <span class="mw-headline">In Deutschland</span></h3>
+<p>Die deutsche Zeitschrift <a href="/wiki/Funime" title="Funime" class="mw-redirect">Funime</a> berichtet von schwankender Bildqualität, zwischen sehr guter Animation bis zum extensiven Einsatz von Standbildern. Das Wichtigste sei jedoch die Handlung die ein aktives Mitdenken des Zuschauers erfordert, vieles nur andeuten würde und sehr komplex sei. Das Ende, das ohne Action auskommt, runde die Serie gut ab und lasse Raum für Interpretationen. Zudem seien die Charaktere sehr gut herausgearbeitet. Dabei gäbe es aber dennoch viel Humor. Die Musik des Animes sei fantastisch.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26" title="">[27]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27" title="">[28]</a></sup></p>
+<p>Die Zeitschrift <a href="/wiki/Animania" title="Animania" class="mw-redirect">Animania</a> beschreibt den Anime als „Mischung aus ergreifender Sci-Fi-Story, wegweisenden Animationen und philosophischen Untertönen“. Jedoch lasse die Serie viele Deutungen zu und das Ende sei für viele Zuschauer unverständlich und ungewöhnlich.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28" title="">[29]</a></sup></p>
+<p><a name="Quellen" id="Quellen"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=39" title="Abschnitt bearbeiten: Quellen">Bearbeiten</a>]</span> <span class="mw-headline">Quellen</span></h2>
+<ol class="references">
+<li id="cite_note-Azuma-0">↑ <sup><i><a href="#cite_ref-Azuma_0-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-2" title="">c</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-3" title="">d</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-4" title="">e</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-5" title="">f</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-6" title="">g</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-7" title="">h</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-8" title="">i</a></i></sup> <sup><i><a href="#cite_ref-Azuma_0-9" title="">j</a></i></sup> <a href="http://www.ntticc.or.jp/pub/ic_mag/ic018/intercity/higashi_E.html#top" class="external text" title="http://www.ntticc.or.jp/pub/ic_mag/ic018/intercity/higashi_E.html#top" rel="nofollow">Anime or something like it: Neon Genesis Evangelion</a>, Essay von <a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a></li>
+<li id="cite_note-rev-1">↑ <sup><i><a href="#cite_ref-rev_1-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-rev_1-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-rev_1-2" title="">c</a></i></sup> <sup><i><a href="#cite_ref-rev_1-3" title="">d</a></i></sup> <sup><i><a href="#cite_ref-rev_1-4" title="">e</a></i></sup> <a href="http://www.cjas.org/~leng/revolution.htm" class="external text" title="http://www.cjas.org/~leng/revolution.htm" rel="nofollow"><i>A look at „The Four Revolutions of Anime“</i></a>von Lawrence Eng</li>
+<li id="cite_note-Wong-2">↑ <sup><i><a href="#cite_ref-Wong_2-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Wong_2-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-Wong_2-2" title="">c</a></i></sup> <sup><i><a href="#cite_ref-Wong_2-3" title="">d</a></i></sup> <sup><i><a href="#cite_ref-Wong_2-4" title="">e</a></i></sup> <a href="http://www.aoianime.hu/evangelion/index.php?page=interanno" class="external text" title="http://www.aoianime.hu/evangelion/index.php?page=interanno" rel="nofollow">Interview von Amos Wong mit Hideaki Anno</a> aus dem Aerial Magazine Januar 1997</li>
+<li id="cite_note-3"><b><a href="#cite_ref-3" title="">↑</a></b> <a href="http://german.imdb.com/title/tt0112159/trivia" class="external text" title="http://german.imdb.com/title/tt0112159/trivia" rel="nofollow">"Shin Seiki Evangelion" (1995) - Dies und Das</a>, Internet Movie Database, abgerufen am 27.05.2008.</li>
+<li id="cite_note-Kazuya-4">↑ <sup><i><a href="#cite_ref-Kazuya_4-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Kazuya_4-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-Kazuya_4-2" title="">c</a></i></sup> <sup><i><a href="#cite_ref-Kazuya_4-3" title="">d</a></i></sup> <a href="http://www.tomodachi.de/html/archiv/funime/f27_kurz_1.html" class="external text" title="http://www.tomodachi.de/html/archiv/funime/f27_kurz_1.html" rel="nofollow">Interview der Funime</a> mit Tsurumaki Kazuya</li>
+<li id="cite_note-Annotokids-5">↑ <sup><i><a href="#cite_ref-Annotokids_5-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Annotokids_5-1" title="">b</a></i></sup> <a href="http://www.animenewsnetwork.com/buried-treasure/2007-05-03" class="external text" title="http://www.animenewsnetwork.com/buried-treasure/2007-05-03" rel="nofollow">Hideaki Anno talks to Kids</a> bei Anime News Network</li>
+<li id="cite_note-6"><b><a href="#cite_ref-6" title="">↑</a></b> <a href="/wiki/Gershom_Scholem" title="Gershom Scholem">Gershom Scholem</a>: Zur Kabbala und ihrer Symbolik. Suhrkamp, 1981</li>
+<li id="cite_note-zitat-7">↑ <sup><i><a href="#cite_ref-zitat_7-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-zitat_7-1" title="">b</a></i></sup> <a href="http://www.cjas.org/~echen/articles/spring97/05_03b.html" class="external text" title="http://www.cjas.org/~echen/articles/spring97/05_03b.html" rel="nofollow">In the Eyes of Hideaki Anno, Writer and Director of Evangelion</a>, Essay von Lawrence Eng, Zitat aus dem Magazin <a href="/w/index.php?title=Newtype&amp;action=edit&amp;redlink=1" class="new" title="Newtype (Seite nicht vorhanden)">Newtype</a> 11/96, Protoculture Addicts #43</li>
+<li id="cite_note-nettime-8">↑ <sup><i><a href="#cite_ref-nettime_8-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-nettime_8-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-nettime_8-2" title="">c</a></i></sup> <sup><i><a href="#cite_ref-nettime_8-3" title="">d</a></i></sup> <sup><i><a href="#cite_ref-nettime_8-4" title="">e</a></i></sup> <a href="http://amsterdam.nettime.org/Lists-Archives/nettime-l-9802/msg00101.html" class="external text" title="http://amsterdam.nettime.org/Lists-Archives/nettime-l-9802/msg00101.html" rel="nofollow">Krystian Woznicki für das BLIMP Filmmagazin, auf Nettime mailing list archives</a>, mit Interview mit <a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a>; vom 20. Februar 1998</li>
+<li id="cite_note-SadaMond-9">↑ <sup><i><a href="#cite_ref-SadaMond_9-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-SadaMond_9-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-SadaMond_9-2" title="">c</a></i></sup> <a href="http://eva.onegeek.org/pipermail/evangelion/2006-November/003855.html" class="external text" title="http://eva.onegeek.org/pipermail/evangelion/2006-November/003855.html" rel="nofollow">Interview mit Charakterdesigner Yoshiyuki Sadamoto</a>, erstveröffentlicht in der Luxusausgabe des Artbooks <i>Der Mond</i>, September 1999</li>
+<li id="cite_note-10"><b><a href="#cite_ref-10" title="">↑</a></b> <a href="http://eva.onegeek.org/pipermail/oldeva/1998-April/013136.html" class="external text" title="http://eva.onegeek.org/pipermail/oldeva/1998-April/013136.html" rel="nofollow">Ursprüngliche Handlung von Neon Genesis Evangelion</a> aus dem Artbook <i>100% Newtype Collection</i>, inoffizielle Übersetzung des japanischen Textes ins Englische.</li>
+<li id="cite_note-EyesofAnno-11">↑ <sup><i><a href="#cite_ref-EyesofAnno_11-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-EyesofAnno_11-1" title="">b</a></i></sup> <sup><i><a href="#cite_ref-EyesofAnno_11-2" title="">c</a></i></sup> <a href="http://www.cjas.org/~echen/articles/spring97/05_03b.html" class="external text" title="http://www.cjas.org/~echen/articles/spring97/05_03b.html" rel="nofollow">In the Eyes of Hideaki Anno, Writer and Director of Evangelion</a>, Essay von Lawrence Eng</li>
+<li id="cite_note-Tsurumaki-12">↑ <sup><i><a href="#cite_ref-Tsurumaki_12-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Tsurumaki_12-1" title="">b</a></i></sup> <a href="http://www.evaotaku.com/html/rcb-tsurumaki.html" class="external text" title="http://www.evaotaku.com/html/rcb-tsurumaki.html" rel="nofollow">Interview mit Regisseur Kazuya Tsurumaki</a> in der englischen Übersetzung des Filmbuchs zu <i>The End of Evangelion</i>, dem Red Cross Book</li>
+<li id="cite_note-Horn-13">↑ <sup><i><a href="#cite_ref-Horn_13-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-Horn_13-1" title="">b</a></i></sup> <a href="http://www.stanford.edu/~fenn/eva/eva1.html" class="external text" title="http://www.stanford.edu/~fenn/eva/eva1.html" rel="nofollow">Speaking Once as They Return: Gainax's Neon Genesis Evangelion</a>, Artikel aus dem Online-Magazin AMPlus von Carl G. Horn</li>
+<li id="cite_note-essay-14"><b><a href="#cite_ref-essay_14-0" title="">↑</a></b> <a href="http://www001.upp.so-net.ne.jp/tsuribe/anime/critique/evae.html#(2)b" class="external text" title="http://www001.upp.so-net.ne.jp/tsuribe/anime/critique/evae.html#(2)b" rel="nofollow">Essay on Evangelion</a> von Manabu Tsuribe</li>
+<li id="cite_note-15"><b><a href="#cite_ref-15" title="">↑</a></b> <a href="http://www.animey.net/news/2323" class="external text" title="http://www.animey.net/news/2323" rel="nofollow">AnimeY</a> über die Ausstrahlung auf Animax]</li>
+<li id="cite_note-16"><b><a href="#cite_ref-16" title="">↑</a></b> <a href="http://www.geosektor.de/index.php?site=story/rebuild" class="external text" title="http://www.geosektor.de/index.php?site=story/rebuild" rel="nofollow">Meldung bei Geosektor.de</a> über Rebuild</li>
+<li id="cite_note-17"><b><a href="#cite_ref-17" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421" class="external text" title="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421" rel="nofollow">Anime News Network</a> über den zweiten Film der Reihe <i>Rebirth</i></li>
+<li id="cite_note-SadaAnimerica-18">↑ <sup><i><a href="#cite_ref-SadaAnimerica_18-0" title="">a</a></i></sup> <sup><i><a href="#cite_ref-SadaAnimerica_18-1" title="">b</a></i></sup> <a href="http://eva.onegeek.org/pipermail/oldeva/1999-January/024322.html" class="external text" title="http://eva.onegeek.org/pipermail/oldeva/1999-January/024322.html" rel="nofollow">Interview mit Yoshiyuki Sadamoto</a> in der <i><a href="/w/index.php?title=Animerica&amp;action=edit&amp;redlink=1" class="new" title="Animerica (Seite nicht vorhanden)">Animerica</a></i> Ausgabe 6 Nr. 8 1998</li>
+<li id="cite_note-19"><b><a href="#cite_ref-19" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/news/2006-10-04/top-10-anime-and-manga-at-japan-media-arts-festival" class="external text" title="http://www.animenewsnetwork.com/news/2006-10-04/top-10-anime-and-manga-at-japan-media-arts-festival" rel="nofollow">Anime News Network</a> über das Ergebnis der Umfrage zum zehnten <a href="/w/index.php?title=Japan_Media_Arts_Festival&amp;action=edit&amp;redlink=1" class="new" title="Japan Media Arts Festival (Seite nicht vorhanden)">Japan Media Arts Festival</a></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/news/2006-10-13/japan's-favorite-tv-anime" class="external text" title="http://www.animenewsnetwork.com/news/2006-10-13/japan's-favorite-tv-anime" rel="nofollow">Anime News Network</a> über die Ergebnisse der Umfrage von TV Asahi im Jahr 2006</li>
+<li id="cite_note-21"><b><a href="#cite_ref-21" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/news/2008-05-06/tokyo-restaurants-offer-limited-evangelion-menu-items" class="external text" title="http://www.animenewsnetwork.com/news/2008-05-06/tokyo-restaurants-offer-limited-evangelion-menu-items" rel="nofollow">Anime News Network</a> über Nahrungsmittel zu <i>Neon Genesis Evangelion</i></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22" title="">↑</a></b> <a href="http://www.evamonkey.com/writings_horn13.php" class="external text" title="http://www.evamonkey.com/writings_horn13.php" rel="nofollow">Viz Media-Redakteur Carl Horn</a> über Bücher über und zu <i>Neon Genesis Evangelion</i></li>
+<li id="cite_note-23"><b><a href="#cite_ref-23" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/convention/2005/substantive-images" class="external text" title="http://www.animenewsnetwork.com/convention/2005/substantive-images" rel="nofollow">Interview mit unter anderem Hiroki Azuma</a> über die <a href="/wiki/Otaku" title="Otaku">Otaku</a>-Kultur in Japan vom Dezember 2005, auf Anime News Network</li>
+<li id="cite_note-24"><b><a href="#cite_ref-24" title="">↑</a></b> Anime News Network über den <a href="http://www.animenewsnetwork.com/news/2003-12-02/evangelion-brings-man-to-kill-mother" class="external text" title="http://www.animenewsnetwork.com/news/2003-12-02/evangelion-brings-man-to-kill-mother" rel="nofollow">Mordfall</a> und <a href="http://www.animenewsnetwork.com/news/2004-02-25/eva-killer-guilty" class="external text" title="http://www.animenewsnetwork.com/news/2004-02-25/eva-killer-guilty" rel="nofollow">das Urteil</a></li>
+<li id="cite_note-25"><b><a href="#cite_ref-25" title="">↑</a></b> <a href="http://www.animenewsnetwork.com/news/2002-11-08/manga-criticizes-newtype" class="external text" title="http://www.animenewsnetwork.com/news/2002-11-08/manga-criticizes-newtype" rel="nofollow">Marvin Gleicher von Manga Entertainment an das Magazin Newtype</a>, auf Anime News Network</li>
+<li id="cite_note-26"><b><a href="#cite_ref-26" title="">↑</a></b> <a href="http://www.tomodachi.de/html/reviews/anime/rev_neon_genesis_evangelion_1.html" class="external text" title="http://www.tomodachi.de/html/reviews/anime/rev_neon_genesis_evangelion_1.html" rel="nofollow">Review der Fernsehserie</a> durch Karsten Schubert auf der Webseite der <a href="/wiki/Funime" title="Funime" class="mw-redirect">Funime</a> und des <a href="/wiki/Anime_no_Tomodachi" title="Anime no Tomodachi">Anime no Tomodachi</a></li>
+<li id="cite_note-27"><b><a href="#cite_ref-27" title="">↑</a></b> <a href="http://www.tomodachi.de/html/reviews/anime/rev_neon_genesis_evangelion_0.html" class="external text" title="http://www.tomodachi.de/html/reviews/anime/rev_neon_genesis_evangelion_0.html" rel="nofollow">Kurzreview von Karsten Schubert</a> auf der Webseite der <a href="/wiki/Funime" title="Funime" class="mw-redirect">Funime</a> und des <a href="/wiki/Anime_no_Tomodachi" title="Anime no Tomodachi">Anime no Tomodachi</a></li>
+<li id="cite_note-28"><b><a href="#cite_ref-28" title="">↑</a></b> <a href="/wiki/Animania" title="Animania" class="mw-redirect">Animania</a>, Ausgabe 07/2005, S.10</li>
+</ol>
+<p><a name="Weblinks" id="Weblinks"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit&amp;section=40" title="Abschnitt bearbeiten: Weblinks">Bearbeiten</a>]</span> <span class="mw-headline">Weblinks</span></h2>
+<ul>
+<li><a href="http://www.gainax.co.jp/anime/eva/index.html" class="external text" title="http://www.gainax.co.jp/anime/eva/index.html" rel="nofollow">Offizielle Seite</a> (Japanisch)</li>
+<li><a href="http://www.carlsen.de/web/manga/serie?id=30349" class="external text" title="http://www.carlsen.de/web/manga/serie?id=30349" rel="nofollow">Offizielle Website des Carlsen-Verlags zur deutschen Fassung der Manga-Serie</a></li>
+<li><a href="http://www.evapedia.de/wiki/Hauptseite" class="external text" title="http://www.evapedia.de/wiki/Hauptseite" rel="nofollow">Evapedia</a>, Internet-Enzyklopädie zu Neon Genesis Evangelion</li>
+<li><i><a href="http://german.imdb.com/title/tt0112159/" class="external text" title="http://german.imdb.com/title/tt0112159/" rel="nofollow">Neon Genesis Evangelion</a></i> in der <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a> (<a href="http://www.imdb.com/title/tt0112159/" class="external text" title="http://www.imdb.com/title/tt0112159/" rel="nofollow">englisch</a>)</li>
+<li><i><a href="http://www.ofdb.de/view.php?page=film&amp;fid=1873" class="external text" title="http://www.ofdb.de/view.php?page=film&amp;fid=1873" rel="nofollow">Neon Genesis Evangelion (TV-Serie)</a></i> in der <a href="/wiki/Online-Filmdatenbank" title="Online-Filmdatenbank">Online-Filmdatenbank</a></li>
+</ul>
+<div id="artikelstadium">
+<div style="position: relative;"><a href="#Vorlage_Lesenswert" title="Dies ist ein als lesenswert ausgezeichneter Artikel"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Qsicon_lesenswert.svg/15px-Qsicon_lesenswert.svg.png" width="15" height="15" border="0" /></a></div>
+</div>
+<div id="Vorlage_Lesenswert">
+<table cellspacing="8" cellpadding="0" class="hintergrundfarbe1 rahmenfarbe1" style="width: 100%; font-size: 95%; border-top-style: solid; margin-top: 1em; clear: both; position:relative;">
+<tr>
+<td style="width: 24px;">
+<div style="position: relative;"><a href="/wiki/Wikipedia:Lesenswerte_Artikel" title="Wikipedia:Lesenswerte Artikel"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Qsicon_lesenswert.svg/24px-Qsicon_lesenswert.svg.png" width="24" height="24" border="0" /></a></div>
+</td>
+<td>Dieser Artikel wurde in die Liste der <a href="/wiki/Wikipedia:Lesenswerte_Artikel" title="Wikipedia:Lesenswerte Artikel">lesenswerten Artikel</a> aufgenommen.</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1361/1000000
+Post-expand include size: 7571/2048000 bytes
+Template argument size: 2755/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewiki:pcache:idhash:28717-0!1!0!!de!2 and timestamp 20080822180917 -->
+<div class="printfooter">
+Von „<a href="http://de.wikipedia.org/wiki/Neon_Genesis_Evangelion">http://de.wikipedia.org/wiki/Neon_Genesis_Evangelion</a>“</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>:&#32;<span dir='ltr'><a href="/wiki/Kategorie:Wikipedia:Lesenswert" title="Kategorie:Wikipedia:Lesenswert">Wikipedia:Lesenswert</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Anime-Fernsehserie" title="Kategorie:Anime-Fernsehserie">Anime-Fernsehserie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Zeichentrickserie" title="Kategorie:Zeichentrickserie">Zeichentrickserie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Science-Fiction-Fernsehserie" title="Kategorie:Science-Fiction-Fernsehserie">Science-Fiction-Fernsehserie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Dystopie" title="Kategorie:Dystopie">Dystopie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Manga" title="Kategorie:Manga">Manga</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:PlayStation-2-Spiel" title="Kategorie:PlayStation-2-Spiel">PlayStation-2-Spiel</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Nintendo-64-Spiel" title="Kategorie:Nintendo-64-Spiel">Nintendo-64-Spiel</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Dreamcast-Spiel" title="Kategorie:Dreamcast-Spiel">Dreamcast-Spiel</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Saturn-Spiel" title="Kategorie:Saturn-Spiel">Saturn-Spiel</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Windows-Spiel" title="Kategorie:Windows-Spiel">Windows-Spiel</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Ansichten</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Neon_Genesis_Evangelion" title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></li>
+				 <li id="ca-talk"><a href="/wiki/Diskussion:Neon_Genesis_Evangelion" title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=edit" title="Seite bearbeiten. Bitte vor dem Speichern die Vorschaufunktion benutzen. [e]" accesskey="e">Seite bearbeiten</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;action=history" title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionen/Autoren</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Persönliche Werkzeuge</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Neon_Genesis_Evangelion" title="Sich einzuloggen wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/de/b/bc/Wiki.png);" href="/wiki/Wikipedia:Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Suche</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/wiki/Spezial:Suche" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Durchsuche die Wikipedia [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Artikel" title="Gehe direkt zu der Seite, die exakt dem eingegebenen Namen entspricht." />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Volltext" title="Suche nach Seiten, die diesen Text enthalten" />
+			</div></form>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite">Hauptseite</a></li>
+				<li id="n-aboutsite"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia">Über Wikipedia</a></li>
+				<li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li>
+				<li id="n-alphindex"><a href="/wiki/Spezial:Alle_Seiten">Von A bis Z</a></li>
+				<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufälliger Artikel</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-Mitmachen'>
+		<h5>Mitmachen</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-help"><a href="/wiki/Wikipedia:Hilfe" title="Hilfeseite anzeigen">Hilfe</a></li>
+				<li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Über das Portal, was du tun kannst, wo was zu finden ist">Autorenportal</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li>
+				<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Spenden" title="Unterstütze uns">Spenden</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Werkzeuge</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Neon_Genesis_Evangelion" title="Liste aller Seiten, die hierher zeigen [j]" accesskey="j">Links auf diese Seite</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Neon_Genesis_Evangelion" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+<li id="t-upload"><a href="/wiki/Spezial:Hochladen" title="Dateien hochladen [u]" accesskey="u">Hochladen</a></li>
+<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Neon_Genesis_Evangelion&amp;oldid=49863504" title="Dauerhafter Link zu dieser Seitenversion">Permanentlink</a></li><li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Neon_Genesis_Evangelion&amp;id=49863504">Seite zitieren</a></li>			</ul>
+		</div>
+	</div>
+	<div id="p-lang" class="portlet">
+		<h5>Andere Sprachen</h5>
+		<div class="pBody">
+			<ul>
+				<li class="interwiki-ar"><a href="http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF_%D8%A5%D9%8A%D9%81%D8%A7%D9%86%D8%AC%D9%8A%D9%84%D9%8A%D9%88%D9%86">العربية</a></li>
+				<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/Evangelion">Català</a></li>
+				<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/Neon_Genesis_Evangelion">Česky</a></li>
+				<li class="interwiki-cv"><a href="http://cv.wikipedia.org/wiki/%C3%87%C4%95%D0%BD%C4%95_%C4%83%D1%80%D1%83_%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BE%D0%BD%C4%95">Чăвашла</a></li>
+				<li class="interwiki-da"><a href="http://da.wikipedia.org/wiki/Neon_Genesis_Evangelion">Dansk</a></li>
+				<li class="interwiki-el"><a href="http://el.wikipedia.org/wiki/Neon_Genesis_Evangelion">Ελληνικά</a></li>
+				<li class="interwiki-en"><a href="http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(TV_series)">English</a></li>
+				<li class="interwiki-eo"><a href="http://eo.wikipedia.org/wiki/Neon_Genesis_Evangelion">Esperanto</a></li>
+				<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/Neon_Genesis_Evangelion">Español</a></li>
+				<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D9%86%D8%A6%D9%88%D9%86_%D8%AC%D9%86%D8%B3%DB%8C%D8%B3_%D8%A7%D9%88%D9%86%DA%AF%D9%84%DB%8C%D9%88%D9%86">فارسی</a></li>
+				<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Neon_Genesis_Evangelion">Suomi</a></li>
+				<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Neon_Genesis_Evangelion">Français</a></li>
+				<li class="interwiki-gl"><a href="http://gl.wikipedia.org/wiki/Neon_Genesis_Evangelion">Galego</a></li>
+				<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%A0%D7%90%D7%95%D7%9F_%D7%92%27%D7%A0%D7%A1%D7%99%D7%A1_%D7%90%D7%95%D7%95%D7%A0%D7%92%D7%9C%D7%99%D7%95%D7%9F">עברית</a></li>
+				<li class="interwiki-hr"><a href="http://hr.wikipedia.org/wiki/Shin_Seiki_Evangelion">Hrvatski</a></li>
+				<li class="interwiki-hu"><a href="http://hu.wikipedia.org/wiki/Neon_Genesis_Evangelion">Magyar</a></li>
+				<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/Neon_Genesis_Evangelion">Bahasa Indonesia</a></li>
+				<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Neon_Genesis_Evangelion">Italiano</a></li>
+				<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3">日本語</a></li>
+				<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%EC%8B%A0%EC%84%B8%EA%B8%B0_%EC%97%90%EB%B0%98%EA%B2%8C%EB%A6%AC%EC%98%A8">한국어</a></li>
+				<li class="interwiki-la"><a href="http://la.wikipedia.org/wiki/Neon_Genesis_Evangelion">Latina</a></li>
+				<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Neon_Genesis_Evangelion">Nederlands</a></li>
+				<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/Neon_Genesis_Evangelion">‪Norsk (bokmål)‬</a></li>
+				<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Neon_Genesis_Evangelion">Polski</a></li>
+				<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Neon_Genesis_Evangelion">Português</a></li>
+				<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BE%D0%BD">Русский</a></li>
+				<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/Neon_Genesis_Evangelion">Simple English</a></li>
+				<li class="interwiki-sk"><a href="http://sk.wikipedia.org/wiki/%C5%A0insejki_Evangelion">Slovenčina</a></li>
+				<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Neon_Genesis_Evangelion">Svenska</a></li>
+				<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%99">ไทย</a></li>
+				<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/Neon_Genesis_Evangelion">Türkçe</a></li>
+				<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/Neon_Genesis_Evangelion">Українська</a></li>
+				<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/Shin_Seiki_Evangelion">Tiếng Việt</a></li>
+				<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB">中文</a></li>
+				<li class="interwiki-zh-yue"><a href="http://zh-yue.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB">粵語</a></li>
+			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins-1.5/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" border="0" alt="Wikimedia Foundation"/></a></div>
+			<ul id="f-list">
+				<li id="lastmod"> Diese Seite wurde zuletzt am 22. August 2008 um 19:15 Uhr geändert.</li>
+				<li id="copyright">Ihr Text steht unter der <a class='internal' href="/wiki/Wikipedia:GNU_Free_Documentation_License">GNU-Lizenz für freie Dokumentation</a>.<br />
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.<br /></li>
+				<li id="privacy"><a href="/wiki/Wikipedia:Datenschutz" title="Wikipedia:Datenschutz">Datenschutz</a></li>
+				<li id="about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+				<li id="disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served by srv187 in 0.084 secs. --></body></html>

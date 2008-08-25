@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "DTD/xhtml1-frameset.dtd">
+<html>
+<head>
+    <link rel="SHORTCUT ICON" href="/graphics/favicon.ico" />
+    <title>Purdue Web Mail</title>
+</head>
+
+<frameset rows="*,55" border="0">
+    <frame name="horde_main" src="/imp/?Horde=38bc72d035f54b91d3f1a14da295b162" scrolling="auto" noresize="noresize" frameborder="0" />
+    <frame name="horde_menu" src="/menu.php?Horde=38bc72d035f54b91d3f1a14da295b162" scrolling="no" marginheight="0" marginwidth="0" noresize="noresize" frameborder="0" />
+</frameset>
+
+</html>
