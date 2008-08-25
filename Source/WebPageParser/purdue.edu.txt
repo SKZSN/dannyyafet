@@ -1,0 +1,1225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+ 
+<html>
+<head>
+<script type="text/javascript" src="http://www.purdue.edu/globals/swfobject.js"></script>
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="Purdue University, Boilermakers, Boilers, College, higher education, West Lafayette, Indiana, public schools, higher education, United States, academics, research, athletics, employment, professors, faculty, technology, libraries, Ross-Ade Stadium, Mackey Arena, students, airport">
+<meta name="AUTHOR" content="Purdue Marketing Communications, Purdue University">
+<meta name="ROBOTS" content="ALL">
+<meta name="DESCRIPTION" content="This is the official Web site of Purdue University, home of the Boilermakers, alma mater of the first and last men to walk on the moon, and proud member of the Big Ten Conference. Perennially ranked among the nation's top public universities and research institutions, Purdue serves as Indiana’s land-, sea-, and space-grant university with a main campus in West Lafayette and locations across the state.">
+  
+   
+<title>Purdue University</title>
+<!-- Library CSS -->
+<link rel="stylesheet" href="http://www.purdue.edu/globals/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
+<link rel="stylesheet" href="http://www.purdue.edu/globals/build/base/base-min.css" type="text/css">
+
+<!-- Purdue CSS  -->  
+<link rel="stylesheet" href="http://www.purdue.edu/purdue/layout/css/purdue.css">
+
+<!-- Optional CSS -->
+<link rel="stylesheet" type="text/css" href="http://www.purdue.edu/globals/build/button/assets/skins/sam/button.css?_yuiversion=2.4.1" />
+
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="http://www.purdue.edu/purdue/layout/css/IE.css">
+<style type="text/css">
+.mark img {behavior: url('http://www.purdue.edu/globals/iefixes/iepngfix/iepngfix.htc'); width: 190px; height:58px; }
+#smallbanner_caption {background: #000; }
+.access,  .state{behavior: url('http://www.purdue.edu/globals/iefixes/iepngfix/iepngfix.htc'); }
+#vertical_container img{behavior: url('http://www.purdue.edu/globals/iefixes/iepngfix/iepngfix.htc'); }
+</style>
+<![endif]-->
+
+</head>
+<body class="yui-skin-sam"><DIV class=yui-t5 id=doc4 ><!-- BEGIN:HEADER -->
+<DIV id=hd >
+<DIV class=mark ><A href="http://www.purdue.edu"><IMG alt="Purdue University" src="http://www.purdue.edu/globals/graphics/mark.gif"> 
+<H1 class=hide>Purdue University</H1></A></DIV><!--mark-->
+<DIV id=search >
+<DIV id=search_links ><A href="http://www.purdue.edu/purdue/about/directory_pages/a_listings.html">A-Z Index</A> | <A href="http://www.purdue.edu/campus_map/">Campus Map</A> </DIV><!--search links-->
+<div id="search_field"><!-- Google CSE Search Box Begins  -->
+                        <form method="GET" action="http://www.purdue.edu/globals/php/purduesearch.php">
+
+   						<input class="text_field" type="text" name="q"  maxlength="256" value="" />
+
+						<input type="submit" name="btnG" value="Search" />
+
+   						<input type="hidden" name="site" value="default_collection" /> 
+
+						<input type="hidden" name="client" value="purdue" />
+						
+						<input type="hidden" name="output" value="xml_no_dtd" />
+						
+						<input type="hidden" name="proxystylesheet" value="purdue" />
+						<div id="search_radio" class="radio_group">
+							<input id="radio1" type="radio" class="radio" name="radio" value="Purdue" checked><label>Purdue Web Site</label>
+							<input id="radio2" type="radio" class="radio" name="radio" value="People"><label>Directory</label>
+	  					</div><!--search_radio -->   
+						</form>
+						
+				<!-- Google CSE Search Box Ends -->
+				</div></DIV><!--search--></DIV><!--hd--><!-- END:HEADER --><!-- BEGIN:TOP NAVIGATION -->
+<DIV id=nav >
+<UL>
+			
+					<li><a href="/purdue/about/index.html">About Purdue<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+							<li><a href="http://www.purdue.edu/president/">President France A. C�rdova</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/administration.html">Administration</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/facts_figures.html">Facts and Figures</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/strategic_plan/2008-2014/">Purdue Strategic Plan</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/history.html">Purdue History</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/traditions.html">Purdue Traditions</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/diversity.html">Diversity</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/admissions/housing.html">Housing</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/purdue_across_indian.html">Purdue Across Indiana</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/directory_pages/a_listings.html">A-Z Index</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/contact.html">Contact Purdue</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			
+			
+					<li><a href="/purdue/admissions/index.html">Admissions<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+							<li><a href="http://www.purdue.edu/admissions">Apply Now</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/Admissions/Undergrad/">Undergraduate Admissions</a></li>
+							
+        					
+							
+							<li><a href="http://www.gradschool.purdue.edu/indexFlash.cfm">Graduate Admissions</a></li>
+							
+        					
+							
+							<li><a href="http://www.iss.purdue.edu/">International Students and Scholars</a></li>
+							
+        					
+							
+							<li><a href="https://www.continuinged.purdue.edu/distance/">Distance Learning</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/dfa/">Financial Aid and Scholarships</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/admissions/student_life.html">Student Life</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/admissions/housing.html">Housing</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			
+			
+					<li><a href="/purdue/academics/index.html">Academics<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+							<li><a href="http://admissions.purdue.edu/Majors_Programs/majors_programs.html">Undergraduate Majors</a></li>
+							
+        					
+							
+							<li><a href="http://www.gradschool.purdue.edu/programs/">Graduate Programs</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/uns/pridepoints.html">Purdue Rankings</a></li>
+							
+        					
+							
+							<li><a href="http://www.courses.purdue.edu/cgi-bin/relay.exe/query?qid=courseCatalogSubjectList">Course Descriptions</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/about/colleges_schools.html">Colleges/Schools</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/provost/shtml/">Provost's Office</a></li>
+							
+        					
+							
+							<li><a href="http://www.lib.purdue.edu">Libraries</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/sats/learning_communities/index.html">Learning Communities</a></li>
+							
+        					
+							
+							<li><a href="http://www.ecn.purdue.edu/Coop/">Cooperative Education Program</a></li>
+							
+        					
+							
+							<li><a href="http://www.studyabroad.purdue.edu/">Study Abroad</a></li>
+							
+        					
+							
+							<li><a href="http://owl.english.purdue.edu">Online Writing Lab</a></li>
+							
+        					
+							
+							<li><a href="http://www.itap.purdue.edu/learning/">Teaching and Learning Technologies</a></li>
+							
+        					
+							
+							<li><a href="https://www.continuinged.purdue.edu/distance/">Distance Learning</a></li>
+							
+        					
+							
+							<li><a href="http://www.continuinged.purdue.edu/">Continuing Education</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/outreach_community/youth_programs.html">Youth Programs</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			
+			
+					<li><a href="/purdue/athletics/index.html">Athletics<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+							<li><a href="http://purduesports.cstv.com">Boilermaker Sports</a></li>
+							
+        					
+							
+							<li><a href="http://ev8.evenue.net/evenue/linkID=purdue">Athletic Tickets</a></li>
+							
+        					
+							
+							<li><a href="http://purduesports.cstv.com/store/?partner_id=13955">Purdue Merchandise</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/jpc/">John Purdue Club</a></li>
+							
+        					
+							
+							<li><a href="http://purduesports.cstv.com/ot/big-ten-network.html">Big Ten Network</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/recsports">Recreational Sports Center</a></li>
+							
+        					
+							
+							<li><a href="http://www.purduegolf.com">Birck Boilermaker Golf Complex</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/tennis/">Schwartz Tennis Center</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/RecSports/facilities/aqua.html">Boilermaker Aquatic Center</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/purdue/outreach_community/youth_programs.html#sports_camps">Youth Sports Camps</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			
+			
+					<li><a href="/purdue/research/index.html">Research<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+            					<li><a href="/purdue/research/research_areas.html">Research Areas</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/dp/index.php">Discovery Park</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdueresearchpark.com/index.asp">Purdue Research Park</a></li>
+							
+        					
+							
+							<li><a href="http://www.lib.purdue.edu">Libraries</a></li>
+							
+        					
+							
+							<li><a href="http://www2.itap.purdue.edu/gradschool/nrc/">Faculty Research Expertise</a></li>
+							
+        					
+							
+							<li><a href="http://www.gradschool.purdue.edu/programs/summer.cfm">Undergraduate Research Programs</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/Research/vpr/index.shtml">Office of the VP for Research</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/humanrel/aao/openings.shtml">Research Employment</a></li>
+							
+        					
+							
+							<li><a href="http://www.itap.purdue.edu/research/">Research Computing Resources</a></li>
+							
+        					
+							
+							<li><a href="http://www.thepress.purdue.edu/">University Press</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			
+			
+					<li><a href="/purdue/visiting/index.html">Visiting Purdue<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul>
+        				
+							
+							<li><a href="http://www.purdue.edu/vic/">Visitor Information Center</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/parking/">Parking</a></li>
+							
+        					
+							
+							<li><a href="http://www.purdue.edu/campus_map/">Campus Map</a></li>
+							
+        					
+							
+            					<li><a href="/purdue/visiting/directions.html">Travel Directions</a></li>
+							
+        					
+							
+							<li><a href="http://admissions.purdue.edu/Visit_Programs/Visit_home.html">Prospective Undergraduate Tours</a></li>
+							
+        					
+							
+							<li><a href="http://www.union.purdue.edu/HTML/UnionClubHotel/">Union Club Hotel</a></li>
+							
+        					
+							
+							<li><a href="http://www.conf.purdue.edu/">Purdue Conferences</a></li>
+							
+        					
+        			</ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+    			
+			 </UL></DIV><!-- nav--><!-- END:TOP NAVIGATION --><!-- BEGIN: MAIN CONTENT -->
+<DIV id=bd style="clear:left;">
+<DIV id=yui-main >
+<DIV class=yui-b >
+<DIV class=yui-g >
+<DIV id="flashcontent">
+<a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Click Here to get Flash Player.</a>
+</DIV>
+
+
+
+</DIV>
+<DIV class=yui-g >
+<DIV class="yui-u first" >
+<DIV class="content index_bullet" >
+<script src="http://www2.itap.purdue.edu/updatenews/mods/newsHeadline.js" type="text/javascript"></script><script src="http://www2.itap.purdue.edu/updatenews/mods/PurdueNoImageNews.js" type="text/javascript"></script> <NOSCRIPT>Please visit <a href="http://www.uns.purdue.edu">Purdue News Service</a> for all your Purdue News</NOSCRIPT><SMALL class="more align_right"><A href="http://news.uns.purdue.edu">More Purdue News &gt;&gt;</A></SMALL> </DIV><!--content--></DIV><!--yui-u first-->
+<DIV class=yui-u >
+<DIV class="content index_bullet" >
+<script src="http://www2.itap.purdue.edu/updatenews/mods/eventsHeadline.js" type="text/javascript"></script><script src="http://www2.itap.purdue.edu/updatenews/mods/EventsNews.js" type="text/javascript"></script><ul style="margin:-7.5px 0px 10px 0px; padding:0;"><li><a href="http://www.purdue.edu/events/homecoming/index.shtml">Oct. 22-25 � Homecoming celebration</a></li></ul> <NOSCRIPT>Please visit <a href="http://www.uns.purdue.edu">Purdue News Service</a> for all your Purdue Events</NOSCRIPT><SMALL class="more align_right"><A href="http://news.uns.purdue.edu/eventindex.html">More Purdue Events &gt;&gt;</A></SMALL> </DIV><!-- content --></DIV><!-- yui-u --></DIV><!--yui-g--></DIV><!--yui-b--></DIV><!-- yui-main --><!-- END: MAIN CONTENT --><!-- BEGIN: RIGHT NAVIGATION -->
+<DIV class=yui-b >
+<DIV id=right_sidebar >
+<DIV id=secondary_navigation >
+<DIV id=vertical_container >
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/information_for/for_pros_stud_fam.html">Prospective Students</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<li><a href="/purdue/information_for/whypurdue.html">Why Purdue?</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://admissions.purdue.edu/Majors_Programs/majors_programs.html">Undergraduate Majors</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.gradschool.purdue.edu/programs/">Graduate Programs</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.iss.purdue.edu/">International Students and Scholars</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/dfa/">Financial Aid and Scholarships</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.gradschool.purdue.edu/funding/">Graduate School Funding</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/admissions/student_life.html">Student Life</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/police/">Campus Safety/Police</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/admissions/housing.html">Housing</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/sats/welcome_programs/index.html">Orientation and New Student Programs</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/Student_Consumer_Inf.html">Student Consumer Information</a></li>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/information_for/for_current_students.html">Current Students</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<li><a href="/purdue/information_for/student_resources.html">Technology and Resources</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.housing.purdue.edu/HTML/DINCampusDining.htm">Campus Dining</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.iss.purdue.edu/">International Students and Scholars</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.studyabroad.purdue.edu/">Study Abroad</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/student_health.html">Student Health and Fitness</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.getinvolved.purdue.edu">Activities and Organizations</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/dfa/stuemp/relatedlinks.htm">Student Employment</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/usp/codo/index.shtml">Changing Majors</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/dfa/">Financial Aid and Scholarships</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.cco.purdue.edu">Center for Career Opportunities</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/Bursar/">Bursar's Office</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/registrar/">Registrar's Office</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/admissions/housing.html">Housing</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/police/">Campus Safety/Police</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/unitedway">United Way 2008</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/information_for/for_faculty_staff_re.html">Faculty, Staff, Retirees</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<li><a href="/purdue/information_for/fac_staff_resources.html">Technology and Resources</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Benefits/">Benefits</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/WorkLife">WorkLife Programs</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/fac_staff_health.html">Health and Fitness</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/leadership_orgs.html">Leadership Organizations</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/policies_procedures.html">Policies and Procedures</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/information_for/professional_devel.html">Professional Development</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/">Job Listings</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.ippu.purdue.edu">International Programs</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/unitedway">United Way 2008</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/information_for/for_alumni.html">Alumni</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="https://www.purdue.edu/apps/account/BoilersphereLogin">Boilersphere Web Community</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.cco.purdue.edu">Center for Career Opportunities</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purduealum.org/dauch/">Dauch Alumni Center</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purduealum.org">Purdue Alumni Association</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/events/">Special Events</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/registrar/Student%20Information/Transcripts.html">Request Transcripts</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.continuinged.purdue.edu/">Continuing Education</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/path_alumni_friends/index.shtml">Give to Purdue</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/outreach_businesses/index.html">Businesses/Organizations</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/engagement">Office of Engagement</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.tap.purdue.edu">Technical Assistance Program (TAP)</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.ces.purdue.edu/index.shtml">Purdue Extension</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.conf.purdue.edu/">Host Your Event at Purdue</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/speakers/">Speakers Bureau</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/business_with_purdue.html">Doing Business with Purdue</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/recruiting.html">Recruiting at Purdue</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/business_general.html">General Business Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/education_resources.html">Education Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/energy_resources.html">Energy Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/environmental_indust.html">Environmental Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/food_agriculture.html">Food and Agriculture Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/government_society.html">Government/Social Services Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/healthcare_resources.html">Healthcare Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/manufacturing_resour.html">Manufacturing Industry Resources</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_businesses/science_resources.html">Science Resources</a></li>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/outreach_community/index.html">Engaging Communities</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/engagement">Office of Engagement</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.ces.purdue.edu/index.shtml">Purdue Extension</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/outreach_community/youth_programs.html">Youth Programs</a></li>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://servicelearning.ics.purdue.edu/index.aspx">Service Learning</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/recsports">Recreational Sports Center</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/odos/sao/bvn/">Boiler Volunteer Network</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/speakers/">Speakers Bureau</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/employment/index.html">Employment</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/why-work.htm">Why work at Purdue?</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/executivePositions.htm">Senior Executive Positions</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/humanrel/aao/openings.shtml">Faculty Positions</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/">Staff Positions</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/studentEmployment.htm">Student Employment/ Internships</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Employment/tempEmployment.htm">Temporary Employment</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/hr/Benefits/benefitsPlans.htm">Benefit Plans</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/giving.html">Giving</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo">University Development Office</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="https://awc.alumni.purdue.edu/ud_b1_handoff1.asp">Make a Gift Online</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/planned_giving/gift_opportunities.shtml">Planned Giving Opportunities</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/planned_giving/endowment.shtml">Endowments</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/pc/">President's Council</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/path_corporate/">Corporate Relations Office</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/path_foundations/index.shtml">Foundation Relations Office</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/udo/about/coll_school_dept_offices.shtml">Development Offices</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.purdue.edu/jpc/">John Purdue Club</a></li>
+                </node:inactive>
+					
+				
+				
+            
+        </ul></div>
+    
+        	 
+                <div onblur="editableClick('dontUpdateButtons');" class="accordion_toggle"><a href="/purdue/global_purdue/index.html">Global Purdue</a></div>
+            
+        <!--inside links -->
+        <div onblur="editableClick('dontUpdateButtons');" class="accordion_content"><ul>
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.ippu.purdue.edu">International Programs</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.studyabroad.purdue.edu/">Study Abroad</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.iss.purdue.edu/">International Students and Scholars</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.studyabroad.purdue.edu/students/questions2.cfm">International/Global Minors</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<node:inactive>
+                    <li><a href="http://www.studyabroad.purdue.edu/programs/aid/details.cfm?ScholarID=92">Fulbright Grants</a></li>
+                </node:inactive>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/global_purdue/intrntl_programs.html">College/School International Programs</a></li>
+					
+				
+				
+            
+			
+				<li><a href="/purdue/global_purdue/global_resrch_engage.html">Global Research and Engagement Centers</a></li>
+					
+				
+				
+            
+        </ul></div>
+     
+<DIV class="accordion_toggle"><A id=state href="#">Purdue Across Indiana</A></DIV><!--toggle-->
+<DIV class="accordion_content state" >
+<UL>
+<LI><A href="http://www.iupui.edu">Indianapolis </A>
+<LI><A href="http://www.ipfw.edu">Fort Wayne </A>
+<LI><A href="http://www.pnc.edu">Westville </A>
+<LI><A href="http://www.calumet.purdue.edu">Hammond </A>
+<LI><A href="http://www.purdue.edu">West Lafayette</A> 
+<LI><A href="http://www.tech.purdue.edu/statewide/index.cfm">Statewide Technology</A> 
+<LI><A href="http://www.ces.purdue.edu/index.shtml">Purdue Extension</A> </LI></UL></DIV><!--accordion_content-->
+<DIV class="nontoggle black"><a>Access Purdue</a></DIV><!--toggle-->
+<DIV class="access" >
+<UL>
+<LI><A id="webmail" href="https://www.itap.purdue.edu/email/service/findservice.cfm" title="Access e-mail online">Webmail</A> 
+<LI><A id="mypurdue" href="https://mypurdue.purdue.edu/" title="myPurdue">myPurdue</A> 
+<LI><A id="ssinfo" href="http://www.ssinfo.purdue.edu/" title="Student portal">SSINFO</A> 
+<LI><A id="libraries" href="http://www.lib.purdue.edu" title="Purdue Libraries online access">Libraries</A>
+<LI><A id="blackboard" href="http://www.itap.purdue.edu/tlt/blackboard/" title="Class supplemental information">Blackboard</A> 
+<LI><A id="onepurdue" href="http://www.purdue.edu/onepurdue" title="Faculty/Staff portal and other information">OnePurdue</A> 
+<LI><A id="boilersphere" href="http://www.purdue.edu/boilersphere" title="Alumni virtual community">Boilersphere</A> 
+<LI><A id="writing_lab" href="http://owl.english.purdue.edu" title="Student writing help online">Writing Lab</A> 
+<LI><A id="campus_map" href="http://www.purdue.edu/campus_map/" title="Online map">Campus Map</A> 
+<LI><A id="itap" href="http://www.itap.purdue.edu/" title="Information Technology at Purdue">ITaP</A>
+<LI><A id="calendar" href="https://calendar.purdue.edu/" title="Purdue Calendars">Calendars</A> </LI></UL></DIV><!--accordion_content--></DIV><!-- vertical_container--><!-- Testing --><!-- end testing --></DIV><!--secondary_navigation--></DIV><!--right_sidebar--></DIV><!-- yui-b --></DIV><!--bd--><!-- END: RIGHT NAVIGATION --><!-- BEGIN: FOOTER -->
+<DIV class=yui-g id=ft >
+<DIV class=yui-u >
+<P class=align_right><A href="http://vovici.com/wsb.dll/s/7212g30510">Feedback</A> | <a href="mailto:comments@pmc.purdue.edu">E-mail Webmaster</a> | <A href="http://www.purdue.edu/globals/blog"> Style Standards</A><BR>Maintained by: <A href="http://www.pmc.purdue.edu">Purdue Marketing Communications</A> 
+</P></DIV>
+<DIV class=yui-u >
+<P>Purdue University, West Lafayette, IN 47907 USA, (765) 494-4600<BR> <a href="http://www.purdue.edu/purdue/disclaimer.html">&copy; 2008 Purdue University.</a> <A href="http://www.purdue.edu/purdue/ea_eou_statement.html">An equal access, equal opportunity university.</A></P></DIV><!--ft--></DIV><!--doc4--><!-- END:FOOTER --><!-- Scripts --><!--Source Scripts --><!-- Visual Scripts --><script type="text/javascript" src="http://www.purdue.edu/globals/build/yuiloader/yuiloader-beta-min.js" ></script> <script type="text/javascript" src="http://www.purdue.edu/globals/javascript/prototype.js"></script> <script type="text/javascript" src="http://www.purdue.edu/globals/javascript/effects.js"></script> <script type="text/javascript" src="http://www.purdue.edu/globals/javascript/accordion.js"></script> <script type="text/javascript" >
+	var verticalAccordions = $$('.accordion_toggle');
+	verticalAccordions.each(function(accordion) {
+		$(accordion.next(0)).setStyle({
+		  height:'0px'
+		});
+	});
+</script> <script type="text/javascript">
+			
+		//
+		//  In my case I want to load them onload, this is how you do it!
+		// 
+		Event.observe(window, 'load', loadAccordions, false);
+	
+		//
+		//	Set up all accordions
+		//
+		function loadAccordions() {
+			var bottomAccordion = new accordion('vertical_container');	
+		}
+		
+	</script><script type="text/javascript">
+// Instantiate and configure Loader:
+var loader = new YAHOO.util.YUILoader({
+
+    // Identify the components you want to load.  Loader will automatically identify
+    // any additional dependencies required for the specified components.
+    require: ["button" , "animation", "container", "event" ],
+	   base: 'http://www.purdue.edu/globals/build/',//where do they live? 
+	
+
+    // Configure loader to pull in optional dependencies.  For example, animation
+    // is an optional dependency for slider.
+    loadOptional: true,
+	
+
+    // The function to call when all script/css resources have been loaded
+    onSuccess: function() {
+	
+	
+	//var submitButton = new YAHOO.widget.Button("sa", { value: "search" });
+		
+/*
+WEBMAIL = new YAHOO.widget.Tooltip("WEBMAIL", { context:"webmail" } );
+SSINFO = new YAHOO.widget.Tooltip("SSINFO", { context:"ssinfo"} );
+BLACKBOARD = new YAHOO.widget.Tooltip("BLACKBOARD", { context:"blackboard" } );
+LIBRARIES = new YAHOO.widget.Tooltip("LIBRARIES", { context:"libraries" } );
+ONEPURDUE = new YAHOO.widget.Tooltip("ONEPURDUE", { context:"onepurdue"} );	
+BOILERSPHERE = new YAHOO.widget.Tooltip("BOILERSPHERE", { context:"boilersphere" } );
+WRITING_LAB = new YAHOO.widget.Tooltip("WRITING_LAB", { context:"writing_lab" } );
+CAMPUS_MAP = new YAHOO.widget.Tooltip("CAMPUS_MAP", { context:"campus_map"} );
+ITAP = new YAHOO.widget.Tooltip("ITAP", { context:"itap" } );*/
+   }
+});
+
+
+loader.insert();
+<!--this javascript code changes the background color of the top 5 links on the right sidebar-->
+var vc = document.getElementById('vertical_container').getElementsByTagName('div');
+var j=0;
+for(var i=0;i<vc.length;i++) {
+	if(vc[i].className == "accordion_toggle" && j<5) {
+		vc[i].style.backgroundColor = "#a37b2c";
+		vc[i].onmouseover = function() {
+			this.style.backgroundColor = "#000000";
+		}
+		vc[i].onmouseout = function() {
+			this.style.backgroundColor = "#a37b2c";
+		}
+		j++;
+	}
+}
+
+</script>
+<script type="text/javascript" src="http://www2.itap.purdue.edu/updatenews/mods/SafetyAlert.js"></script>
+</DIV>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2785081-1";
+urchinTracker();
+</script>
+</body>
+</html>
